@@ -33,7 +33,7 @@ The Locator subclasses defined here are:
 `IndexLocator`          Locator for index plots (e.g., where
                         ``x = range(len(y))``).
 `NullLocator`           No ticks.
-`SymmetricalLogLocator` Locator for use with with the symlog norm; works like
+`SymmetricalLogLocator` Locator for use with the symlog norm; works like
                         `LogLocator` for the part outside of the threshold and
                         adds 0 if inside the limits.
 `AsinhLocator`          Locator for use with the asinh norm, attempting to
