@@ -5588,7 +5588,7 @@ the `API changes <../../api/api_changes.html>`_.
 
 2004-10-31
     backend_ps.py: clean up the generated PostScript code, use the PostScript
-    stack to hold itermediate values instead of storing them in the dictionary.
+    stack to hold intermediate values instead of storing them in the dictionary.
     - JV
 
 2004-10-30
