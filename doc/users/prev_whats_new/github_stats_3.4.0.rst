@@ -808,7 +808,7 @@ Pull Requests (772):
 * :ghpull:`17901`: DOC: Autoreformating of backend/\*.py
 * :ghpull:`17291`: Normalize gridspec ratios to lists in the setter.
 * :ghpull:`18226`: Use CallbackRegistry in Widgets and some related cleanup
-* :ghpull:`18203`: Force locator and formatter inheritence
+* :ghpull:`18203`: Force locator and formatter inheritance
 * :ghpull:`18279`: boxplot: Add conf_intervals reference to notch docs.
 * :ghpull:`18276`: Fix autoscaling to exclude infinite data limits when possible.
 * :ghpull:`18261`: Migrate tk backend tests into subprocesses
