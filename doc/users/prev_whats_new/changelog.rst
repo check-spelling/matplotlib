@@ -49,7 +49,7 @@ the `API changes <../../api/api_changes.html>`_.
     Fixed bug so radial plots can be saved as ps in py3k.
 
 2014-06-01
-    Changed the fmt kwarg of errorbar to support the the mpl convention that
+    Changed the fmt kwarg of errorbar to support the mpl convention that
     "none" means "don't draw it", and to default to the empty string, so that
     plotting of data points is done with the plot() function defaults.
     Deprecated use of the None object in place "none".
