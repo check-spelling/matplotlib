@@ -924,7 +924,7 @@ Pull Requests (918):
 * :ghpull:`12460`: Deprecate RendererBase.strip_math.
 * :ghpull:`12453`: Rollback erroneous commit to whats_new.rst from #10746
 * :ghpull:`12452`: Minor updates to the FAQ.
-* :ghpull:`10746`: Adjusted matplotlib.widgets.Slider to have optional vertical orientatation
+* :ghpull:`10746`: Adjusted matplotlib.widgets.Slider to have optional vertical orientation
 * :ghpull:`12441`: Get rid of a signed-compare warning.
 * :ghpull:`12430`: Deprecate Axes3D.plot_surface(shade=None)
 * :ghpull:`12435`: Fix numpydoc parameter formatting
