@@ -1074,7 +1074,7 @@ Pull Requests (939):
 * :ghpull:`19733`: Reword AutoDateFormatter docs.
 * :ghpull:`19718`: Small style fixes to matplotlibrc.template.
 * :ghpull:`19679`: Add inheritance diagram to patches docs
-* :ghpull:`19717`: Don't sort lexicographially entries in SVG output.
+* :ghpull:`19717`: Don't sort lexicographically entries in SVG output.
 * :ghpull:`19716`: Fix colon placement in issue template.
 * :ghpull:`19704`: Cleanup license page in docs
 * :ghpull:`19487`: Deprecate unused \*args to print_<foo>.
