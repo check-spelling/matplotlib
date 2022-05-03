@@ -748,7 +748,7 @@ Pull Requests (839):
 * :ghpull:`14555`: Coding guidelines concerning the API
 * :ghpull:`14516`: Document and test _get_packed_offsets()
 * :ghpull:`14628`: matplotlib > Matplotlib in devel docs
-* :ghpull:`14627`: gitignore pip-wheel-metadta/ directory
+* :ghpull:`14627`: gitignore pip-wheel-metadata/ directory
 * :ghpull:`14612`: Update some mplot3d docs.
 * :ghpull:`14617`: Remove a Py2.4(!) backcompat fix.
 * :ghpull:`14605`: Update hist2d() docstring.
