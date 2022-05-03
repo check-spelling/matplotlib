@@ -246,7 +246,7 @@ Pull Requests (224):
 * :ghpull:`12278`: Document inheriting docstrings
 * :ghpull:`12262`: Simplify empty-rasterized pdf test.
 * :ghpull:`12269`: Add some param docs to BlockingInput methods
-* :ghpull:`12272`: Fix ``contrained`` to ``constrained``
+* :ghpull:`12272`: Fix ``constrained`` to ``constrained``
 * :ghpull:`12255`: Deduplicate inherited docstrings.
 * :ghpull:`12254`: Improve docstrings of Animations
 * :ghpull:`12258`: Fix CSS for module-level data
