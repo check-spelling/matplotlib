@@ -354,7 +354,7 @@ class FormatStrFormatter(Formatter):
     It will be applied to the value (not the position) of the tick.
 
     Negative numeric values will use a dash, not a Unicode minus; use mathtext
-    to get a Unicode minus by wrappping the format specifier with $ (e.g.
+    to get a Unicode minus by wrapping the format specifier with $ (e.g.
     "$%g$").
     """
     def __init__(self, fmt):
