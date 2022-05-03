@@ -1488,7 +1488,7 @@ the `API changes <../../api/api_changes.html>`_.
     interface - GR
 
 2009-02-04
-    Some reorgnization of the legend code. anchored_text.py added as an
+    Some reorganization of the legend code. anchored_text.py added as an
     example. - JJL
 
 2009-02-04
