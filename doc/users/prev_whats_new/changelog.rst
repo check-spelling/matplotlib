@@ -4879,7 +4879,7 @@ the `API changes <../../api/api_changes.html>`_.
 2005-05-12
     Started work on TeX text for antigrain using pngdvi -- see
     examples/tex_demo.py and the new module matplotlib.texmanager.  Rotated
-    text not supported and rendering small glyps is not working right yet.  BUt
+    text not supported and rendering small glyphs is not working right yet.  BUt
     large fontsizes and/or high dpi saved figs work great.
 
 2005-05-10
