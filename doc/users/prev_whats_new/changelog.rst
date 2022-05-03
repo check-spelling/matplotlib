@@ -5892,7 +5892,7 @@ the `API changes <../../api/api_changes.html>`_.
     Use imshow(blah, blah, extent=(xmin, xmax, ymin, ymax) instead  - JDH
 
 2004-07-12
-    Added prototype for new nav bar with codifed event handling.  Use
+    Added prototype for new nav bar with codified event handling.  Use
     mpl_connect rather than connect for matplotlib event handling.  toolbar
     style determined by rc toolbar param.  backend status: gtk: prototype, wx:
     in progress, tk: not started - JDH
