@@ -67,7 +67,7 @@ namespace agg
         double operator() (double x) const { return m_gamma_spline.y(x); }
         const gamma_spline& get_gamma_spline() const { return m_gamma_spline; }
 
-        // Vertex soutce interface
+        // Vertex source interface
         unsigned num_paths() { return 7; }
         void     rewind(unsigned idx);
         unsigned vertex(double* x, double* y);

@@ -69,7 +69,7 @@ namespace agg
         double y(unsigned idx) const { return m_yp[idx]; }
         void  update_spline();
 
-        // Vertex soutce interface
+        // Vertex source interface
         unsigned num_paths() { return 5; }
         void     rewind(unsigned path_id);
         unsigned vertex(double* x, double* y);

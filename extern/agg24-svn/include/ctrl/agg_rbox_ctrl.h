@@ -53,7 +53,7 @@ namespace agg
         virtual bool on_mouse_move(double x, double y, bool button_flag);
         virtual bool on_arrow_keys(bool left, bool right, bool down, bool up);
 
-        // Vertex soutce interface
+        // Vertex source interface
         unsigned num_paths() { return 5; };
         void     rewind(unsigned path_id);
         unsigned vertex(double* x, double* y);
