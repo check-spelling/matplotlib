@@ -4824,7 +4824,7 @@ the `API changes <../../api/api_changes.html>`_.
 2005-05-27
     Finally found the pesky agg bug (which Maxim was kind enough to fix within
     hours) that was causing a segfault in the win32 cached marker drawing.  Now
-    windows users can get the enormouse performance benefits of caced markers
+    windows users can get the enormous performance benefits of caced markers
     w/o those occasional pesy screenshots. - JDH
 
 2005-05-27
