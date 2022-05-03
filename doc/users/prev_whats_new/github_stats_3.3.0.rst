@@ -467,7 +467,7 @@ Pull Requests (1066):
 * :ghpull:`17137`: Deprecate Toolbar.press/release; add helper to find overridden methods.
 * :ghpull:`17245`: Improve error handling in _parse_scatter_color_args
 * :ghpull:`15008`: ENH: add variable epoch
-* :ghpull:`17260`: Text Rotation Example: Correct roation_mode typo
+* :ghpull:`17260`: Text Rotation Example: Correct rotation_mode typo
 * :ghpull:`17258`: Improve info logged by tex subsystem.
 * :ghpull:`17211`: Deprecate support for running svg converter from path containing newline.
 * :ghpull:`17078`: Improve nbAgg & WebAgg toolbars
