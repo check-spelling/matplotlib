@@ -35,7 +35,7 @@ namespace agg
 
     //=============================================================scanline_bin
     // 
-    // This is binary scaline container which supports the interface 
+    // This is binary scanline container which supports the interface 
     // used in the rasterizer::render(). See description of agg_scanline_u8 
     // for details.
     // 
