@@ -282,9 +282,9 @@ Pull Requests (918):
 * :ghpull:`13946`: Backport PR #13924 on branch v3.1.x (Followup to deprecation of usetex parameter in get_text_path.)
 * :ghpull:`13924`: Followup to deprecation of usetex parameter in get_text_path.
 * :ghpull:`13916`: Backport PR #13850 on branch v3.1.x (Cleanup STIX Font Demo)
-* :ghpull:`13915`: Backport PR #13835 on branch v3.1.x (Improve Conectionstyle Demo)
+* :ghpull:`13915`: Backport PR #13835 on branch v3.1.x (Improve Connectionstyle Demo)
 * :ghpull:`13850`: Cleanup STIX Font Demo
-* :ghpull:`13835`: Improve Conectionstyle Demo
+* :ghpull:`13835`: Improve Connectionstyle Demo
 * :ghpull:`13846`: Backport PR #13836 on branch v3.1.x (MNT: account for cpython deprecations)
 * :ghpull:`13898`: Backport PR #13896 on branch v3.1.x (Fix cbook.boxplot_stats docstring)
 * :ghpull:`13896`: Fix cbook.boxplot_stats docstring
