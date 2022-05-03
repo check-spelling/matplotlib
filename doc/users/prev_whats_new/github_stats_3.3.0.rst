@@ -1275,7 +1275,7 @@ Issues (198):
 * :ghissue:`17616`: waitforbuttonpress in Linux
 * :ghissue:`17615`: small bug in documentation of backend.FigureCanvasBase.start_event_loop
 * :ghissue:`17093`: Zero size figure use case
-* :ghissue:`17608`: How avoid PyQt5 to crash when I move Qslitter to the edge with a matplotlib figure in it?
+* :ghissue:`17608`: How avoid PyQt5 to crash when I move QSplitter to the edge with a matplotlib figure in it?
 * :ghissue:`9829`: Vertices clipped for certain markers when plotting more than two points and saving as pdf
 * :ghissue:`15815`: bar3d color length bug
 * :ghissue:`15376`: ScalarFormatter.set_powerlimits documentation seems inconsistent
