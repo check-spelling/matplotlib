@@ -1091,7 +1091,7 @@ Issues (204):
 * :ghissue:`18641`: Conversion cache cleaning is broken with xdist
 * :ghissue:`15614`: named color examples need borders
 * :ghissue:`5519`: The linestyle 'None',  ' ' and '' not supported by PathPatch.
-* :ghissue:`17487`: Polygon selector with useblit=True - polygon dissapears
+* :ghissue:`17487`: Polygon selector with useblit=True - polygon disappears
 * :ghissue:`17476`: RectangleSelector fails to clear itself after being toggled inactive and then back to active.
 * :ghissue:`18600`: plt.errorbar raises error when given marker=<matplotlib.markers.MarkerStyle object>
 * :ghissue:`18355`: Optional components required to build docs aren't documented
