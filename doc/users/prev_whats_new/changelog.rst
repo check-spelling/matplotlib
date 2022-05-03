@@ -2737,7 +2737,7 @@ the `API changes <../../api/api_changes.html>`_.
     Fixed a bug in patches.Ellipse that was broken for aspect='auto'.  Scale
     free ellipses now work properly for equal and auto on Agg and PS, and they
     fall back on a polygonal approximation for nonlinear transformations until
-    we convince oursleves that the spline approximation holds for nonlinear
+    we convince ourselves that the spline approximation holds for nonlinear
     transformations. Added unit/ellipse_compare.py to compare spline with
     vertex approx for both aspects. JDH
 
