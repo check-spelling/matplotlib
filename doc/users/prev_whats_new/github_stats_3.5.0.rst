@@ -1241,7 +1241,7 @@ Issues (187):
 * :ghissue:`17508`: Quadmesh.set_array should validate dimensions
 * :ghissue:`20372`: Incorrect axes positioning in axes_grid.Grid with direction='column'
 * :ghissue:`19419`: Dev version hard to check
-* :ghissue:`17310`: Matplotlib git master version fails to pass serveral pytest's tests.
+* :ghissue:`17310`: Matplotlib git master version fails to pass several pytest's tests.
 * :ghissue:`7742`: plot_date() after axhline() doesn't rescale axes
 * :ghissue:`20322`: QuadMesh default for shading inadvertently changed.
 * :ghissue:`9653`: SVG savefig + LaTeX extremely slow on macOS
