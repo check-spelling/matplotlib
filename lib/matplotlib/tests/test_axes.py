@@ -1810,7 +1810,7 @@ def test_bar_hatches(fig_test, fig_ref):
 
 
 def test_pandas_minimal_plot(pd):
-    # smoke test that series and index objcets do not warn
+    # smoke test that series and index objects do not warn
     for x in [pd.Series([1, 2], dtype="float64"),
               pd.Series([1, 2], dtype="Float64")]:
         plt.plot(x, x)
