@@ -624,7 +624,7 @@ Pull Requests (839):
 * :ghpull:`14739`: Improve indentation of Line2D properties in docstrings.
 * :ghpull:`14923`: In examples, prefer buffer_rgba to print_to_buffer.
 * :ghpull:`14908`: Make matplotlib.style.available sorted alphabetically.
-* :ghpull:`13567`: Deprecate MovieWriterRegistry cache-dirtyness system.
+* :ghpull:`13567`: Deprecate MovieWriterRegistry cache-dirtiness system.
 * :ghpull:`14879`: Error out when unsupported kwargs are passed to Scale.
 * :ghpull:`14512`: Logit scale, changes in LogitLocator and LogitFormatter
 * :ghpull:`12415`: ENH: fig.set_size to allow non-inches units
