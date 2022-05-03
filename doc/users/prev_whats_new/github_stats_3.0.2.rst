@@ -117,7 +117,7 @@ Pull Requests (224):
 * :ghpull:`12651`: FIX: ignore non-finite bbox
 * :ghpull:`12653`: Don't warn when accessing deprecated properties from the class.
 * :ghpull:`12608`: ENH: allow matplotlib.use after getbackend
-* :ghpull:`12658`: Do not warn-depreacted when iterating over rcParams
+* :ghpull:`12658`: Do not warn-deprecated when iterating over rcParams
 * :ghpull:`12635`: FIX: allow non bbox_extra_artists calls
 * :ghpull:`12659`: Add note that developer discussions are private
 * :ghpull:`12543`: Make rcsetup.py flak8 compliant
