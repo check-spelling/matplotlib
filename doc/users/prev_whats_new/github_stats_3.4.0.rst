@@ -1123,7 +1123,7 @@ Issues (204):
 * :ghissue:`17712`: constrained_layout fails on suptitle+colorbars+some figure sizes
 * :ghissue:`14638`: colorbar.make_axes doesn't anchor in constrained_layout
 * :ghissue:`18299`: New configure_subplots behaves badly on TkAgg backend
-* :ghissue:`18300`: Remove the examples category "Our Favorite Recipies"
+* :ghissue:`18300`: Remove the examples category "Our Favorite Recipes"
 * :ghissue:`18077`: Imshow breaks if given a unyt_array input
 * :ghissue:`7074`: Using a linestyle cycler with plt.errorbar results in strange plots
 * :ghissue:`18236`: FuncAnimation fails to display with interval 0 on Tkagg backend
