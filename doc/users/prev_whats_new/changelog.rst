@@ -262,7 +262,7 @@ the `API changes <../../api/api_changes.html>`_.
 
 2013-04-15
     Added 'axes.xmargin' and 'axes.ymargin' to rpParams to set default margins
-    on auto-scaleing. - TAC
+    on auto-scaling. - TAC
 
 2013-04-16
     Added patheffect support for Line2D objects.  -JJL
