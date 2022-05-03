@@ -6200,7 +6200,7 @@ the `API changes <../../api/api_changes.html>`_.
     WX backends. - PEB
 
 2004-04-16
-    Added get- and set_fontstyle msethods. - PEB
+    Added get- and set_fontstyle methods. - PEB
 
 2004-04-10
     Mathtext fixes: scaling with dpi,  - JDH
