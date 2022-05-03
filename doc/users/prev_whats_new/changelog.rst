@@ -4917,7 +4917,7 @@ the `API changes <../../api/api_changes.html>`_.
 
 2005-05-04
     Added NewScalarFormatter. Improved formatting of ticklabels, scientific
-    notation, and the ability to plot large large numbers with small ranges, by
+    notation, and the ability to plot large numbers with small ranges, by
     determining a numerical offset.  See ticker.NewScalarFormatter for more
     details. -DSD
 
