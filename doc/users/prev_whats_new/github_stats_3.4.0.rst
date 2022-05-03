@@ -426,7 +426,7 @@ Pull Requests (772):
 * :ghpull:`19207`: Fix Grouper example code
 * :ghpull:`19204`: Clarify Date Format Example
 * :ghpull:`19200`: Fix incorrect statement regarding test images cache size.
-* :ghpull:`19198`: Fix link in contrbuting docs
+* :ghpull:`19198`: Fix link in contributing docs
 * :ghpull:`19196`: Fix PR welcome action
 * :ghpull:`19188`: Cleanup comparison between X11/CSS4 and xkcd colors
 * :ghpull:`19194`: Fix trivial quiver doc typo.
