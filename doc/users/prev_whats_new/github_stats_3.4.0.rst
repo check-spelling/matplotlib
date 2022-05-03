@@ -1044,7 +1044,7 @@ Issues (204):
 * :ghissue:`19099`: axisartist axis_direction bug
 * :ghissue:`19171`: 3D surface example bug for non-square grid
 * :ghissue:`18112`: set_{x,y,z}bound 3d limits are not persistent upon interactive rotation
-* :ghissue:`19078`: _update_patch_limits should not use CLOSEPOLY verticies for updating
+* :ghissue:`19078`: _update_patch_limits should not use CLOSEPOLY vertices for updating
 * :ghissue:`16123`: test_dpi_ratio_change fails on Windows/Qt5Agg
 * :ghissue:`15796`: [DOC] PDF build of matplotlib own documentation crashes with LaTeX error "too deeply nested"
 * :ghissue:`19091`: 3D Axes don't work in SubFigures
