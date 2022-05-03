@@ -1806,7 +1806,7 @@ the `API changes <../../api/api_changes.html>`_.
 
 2008-11-11
     Add 'pad_to' and 'sides' parameters to mlab.psd() to allow controlling of
-    zero padding and returning of negative frequency components, respecitively.
+    zero padding and returning of negative frequency components, respectively.
     These are added in a way that does not change the API. - RM
 
 2008-11-10
