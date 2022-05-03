@@ -111,7 +111,7 @@ Pull Requests (73):
 Issues (25):
 
 * :ghissue:`18234`: _reshape_2D function behavior changed, breaks hist for some cases in 3.3.0
-* :ghissue:`18232`: different behaviour between 3.3.0 and 3.2.2 (and earlier) for ploting in a Tk canvas
+* :ghissue:`18232`: different behaviour between 3.3.0 and 3.2.2 (and earlier) for plotting in a Tk canvas
 * :ghissue:`18212`: Updated WxAgg NavigationToolbar2 breaks custom toolbars
 * :ghissue:`18129`: Error reading png image from URL with imread in matplotlib 3.3
 * :ghissue:`18163`: Figure can not be closed if it has associated Agg canvas
