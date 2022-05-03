@@ -2348,7 +2348,7 @@ class TestScatter:
 
     @check_figures_equal(extensions=["png"])
     def test_scatter_no_invalid_color(self, fig_test, fig_ref):
-        # With plotninfinite=False we plot only 2 points.
+        # With plotnonfinite=False we plot only 2 points.
         ax = fig_test.subplots()
         cmap = plt.get_cmap("viridis", 16)
         cmap.set_bad("k", 1)
