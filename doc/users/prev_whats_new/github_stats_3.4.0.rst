@@ -428,7 +428,7 @@ Pull Requests (772):
 * :ghpull:`19200`: Fix incorrect statement regarding test images cache size.
 * :ghpull:`19198`: Fix link in contrbuting docs
 * :ghpull:`19196`: Fix PR welcome action
-* :ghpull:`19188`: Cleanup comparision between X11/CSS4 and xkcd colors
+* :ghpull:`19188`: Cleanup comparison between X11/CSS4 and xkcd colors
 * :ghpull:`19194`: Fix trivial quiver doc typo.
 * :ghpull:`19180`: Fix Artist.remove_callback()
 * :ghpull:`19192`: Fixed part of Issue - #19100, changed documentation for axisartist

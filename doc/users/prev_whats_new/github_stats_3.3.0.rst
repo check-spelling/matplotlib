@@ -860,7 +860,7 @@ Pull Requests (1066):
 * :ghpull:`16439`: Rework pylab docstring.
 * :ghpull:`16441`: Rework pylab docstring.
 * :ghpull:`16442`: Expire deprecation of \stackrel.
-* :ghpull:`16365`: TST: test_acorr (replaced image comparison with figure comparion)
+* :ghpull:`16365`: TST: test_acorr (replaced image comparison with figure comparison)
 * :ghpull:`16206`: Expire deprecation of \stackrel
 * :ghpull:`16437`: Rework pylab docstring.
 * :ghpull:`8896`: Fix mplot3d projection
