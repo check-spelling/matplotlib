@@ -1133,7 +1133,7 @@ Pull Requests (1066):
 * :ghpull:`15645`: Bump minimal numpy version to 1.12.
 * :ghpull:`15646`: Hide sphinx-gallery config comments
 * :ghpull:`15642`: Remove interpolation="nearest" from most examples.
-* :ghpull:`15671`: Don't mention tcl in tkagg commments anymore.
+* :ghpull:`15671`: Don't mention tcl in tkagg comments anymore.
 * :ghpull:`15607`: Simplify tk loader.
 * :ghpull:`15651`: Simplify axes_pad handling in axes_grid.
 * :ghpull:`15652`: Remove mention of Enthought Canopy from the docs.
