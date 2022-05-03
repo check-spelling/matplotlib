@@ -4386,7 +4386,7 @@ the `API changes <../../api/api_changes.html>`_.
     Released 0.85
 
 2005-11-16
-    Changed the default default linewidth in rc to 1.0
+    Changed the default linewidth in rc to 1.0
 
 2005-11-16
     Replaced agg_to_gtk_drawable with pure pygtk pixbuf code in backend_gtkagg.
