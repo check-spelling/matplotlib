@@ -441,7 +441,7 @@ class Slider(SliderBase):
             ax.add_patch(self.track)
             self.poly = ax.axhspan(valmin, valinit, .25, .75, **kwargs)
             # Drawing a longer line and clipping it to the track avoids
-            # pixellization-related asymmetries.
+            # pixelation-related asymmetries.
             self.hline = ax.axhline(valinit, 0, 1, color=initcolor, lw=1,
                                     clip_path=TransformedPatchPath(self.track))
             handleXY = [[0.5], [valinit]]
