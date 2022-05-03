@@ -5164,7 +5164,7 @@ the `API changes <../../api/api_changes.html>`_.
 
 2005-02-09
     backend renderer draw_lines now has transform in backend, as in
-    draw_markers; use numerix in _backend_agg, aded small line optimization to
+    draw_markers; use numerix in _backend_agg, added small line optimization to
     agg
 
 2005-02-09
