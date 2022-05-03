@@ -3450,7 +3450,7 @@ the `API changes <../../api/api_changes.html>`_.
     specified as a kwarg. - EF
 
 2006-11-05
-    Added broken_barh function for makring a sequence of horizontal bars broken
+    Added broken_barh function for marking a sequence of horizontal bars broken
     by gaps -- see examples/broken_barh.py
 
 2006-11-05
