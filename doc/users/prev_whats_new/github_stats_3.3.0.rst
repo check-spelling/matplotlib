@@ -789,7 +789,7 @@ Pull Requests (1066):
 * :ghpull:`16560`: Update URL to pyparsing.
 * :ghpull:`16292`: More edits to Normalize docstrings.
 * :ghpull:`16536`: API/TST: minimum versions
-* :ghpull:`16559`: 3D example avoid using statefull .gca()
+* :ghpull:`16559`: 3D example avoid using stateful .gca()
 * :ghpull:`16553`: DOC: clarify the expected shapes of eventplot input
 * :ghpull:`16535`: Clarify docs of num parameter of plt.figure()
 * :ghpull:`16547`: Reformat/reword mathtext docstrings.
