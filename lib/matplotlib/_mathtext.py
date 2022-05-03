@@ -1148,7 +1148,7 @@ class Hlist(List):
         if x > 0.:
             self._set_glue(x, 1, total_stretch, "Overful")
         else:
-            self._set_glue(x, -1, total_shrink, "Underfull")
+            self._set_glue(x, -1, total_shrink, "Underful")
 
 
 class Vlist(List):
@@ -1227,7 +1227,7 @@ class Vlist(List):
         if x > 0.:
             self._set_glue(x, 1, total_stretch, "Overful")
         else:
-            self._set_glue(x, -1, total_shrink, "Underfull")
+            self._set_glue(x, -1, total_shrink, "Underful")
 
 
 class Rule(Box):
