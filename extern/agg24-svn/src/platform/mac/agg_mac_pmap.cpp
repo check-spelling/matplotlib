@@ -87,7 +87,7 @@ namespace agg
     //static
     //This function is just copied from the Win32 plattform support.
     //Is also seems to be appropriate for MacOS as well, but it is not
-    //thouroughly tested so far.
+    //thoroughly tested so far.
     //------------------------------------------------------------------------
 
     unsigned pixel_map::calc_row_len(unsigned width, unsigned bits_per_pixel)
