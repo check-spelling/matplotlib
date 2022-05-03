@@ -163,10 +163,10 @@ Pull Requests (1066):
 
 * :ghpull:`17943`: Backport PR #17942 on branch v3.3.x (Increase heading level for 3.3 What's New)
 * :ghpull:`17942`: Increase heading level for 3.3 What's New
-* :ghpull:`17941`: Backport PR #17938 on branch v3.3.x (Don't allow 1D lists as subplot_moasic layout.)
+* :ghpull:`17941`: Backport PR #17938 on branch v3.3.x (Don't allow 1D lists as subplot_mosaic layout.)
 * :ghpull:`17940`: Backport PR #17885 on branch v3.3.x (BF: ignore CLOSEPOLY after NaN in PathNanRemover)
 * :ghpull:`17937`: Backport PR #17877 on branch v3.3.x (Fix drawing zoom rubberband on GTK backends.)
-* :ghpull:`17938`: Don't allow 1D lists as subplot_moasic layout.
+* :ghpull:`17938`: Don't allow 1D lists as subplot_mosaic layout.
 * :ghpull:`17885`: BF: ignore CLOSEPOLY after NaN in PathNanRemover
 * :ghpull:`17877`: Fix drawing zoom rubberband on GTK backends.
 * :ghpull:`17933`: Backport PR #17858 on branch v3.3.x (Refresh what's new page for 3.3.0)
