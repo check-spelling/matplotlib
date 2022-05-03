@@ -794,7 +794,7 @@ Pull Requests (1066):
 * :ghpull:`16535`: Clarify docs of num parameter of plt.figure()
 * :ghpull:`16547`: Reformat/reword mathtext docstrings.
 * :ghpull:`16545`: Add a smoketest for ps.usedistiller="xpdf".
-* :ghpull:`16529`: Deprecate toggling axes navigatability using the keyboard.
+* :ghpull:`16529`: Deprecate toggling axes navigability using the keyboard.
 * :ghpull:`16521`: Remove more API deprecated in 3.1.
 * :ghpull:`16481`: Update set_thetalim documentation
 * :ghpull:`16524`: Cleanup docstrings
