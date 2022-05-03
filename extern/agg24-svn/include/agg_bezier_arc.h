@@ -34,7 +34,7 @@ namespace agg
 
     //==============================================================bezier_arc
     // 
-    // See implemantaion agg_bezier_arc.cpp
+    // See implementation agg_bezier_arc.cpp
     //
     class bezier_arc
     {
