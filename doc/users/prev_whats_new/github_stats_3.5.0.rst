@@ -1121,7 +1121,7 @@ Issues (187):
 * :ghissue:`20847`: [Bug]: Contourf not filling contours.
 * :ghissue:`21300`: [Bug]: zooming in on contour plot gives false extra contour lines
 * :ghissue:`21466`: [Bug]: EPS export shows hidden tick labels when using tex for text rendering
-* :ghissue:`21463`: [Bug]: Plotting labels with Greek latters in math mode produces Parsing error when plt.show() runs
+* :ghissue:`21463`: [Bug]: Plotting labels with Greek letters in math mode produces Parsing error when plt.show() runs
 * :ghissue:`20534`: Document formatting for sections
 * :ghissue:`21246`: [Doc]: Install info takes up too much room on new front page
 * :ghissue:`21432`: [Doc]: Double clicking parameter name also highlights next item of text
