@@ -821,7 +821,7 @@ void ttfont_sfnts(TTStreamWriter& stream, struct TTFONT *font)
 
     debug("only %d tables selected",count);
 
-    /* Now, emmit the table directory. */
+    /* Now, emit the table directory. */
     for (x=0; x < 9; x++)
     {
         if ( tables[x].length == 0 )    /* Skip missing tables */
@@ -1345,7 +1345,7 @@ void insert_ttfont(const char *filename, TTStreamWriter& stream,
     ttfont_FontInfo(stream, &font);
 
     /* If we are generating a type 42 font, */
-    /* emmit the sfnts array. */
+    /* emit the sfnts array. */
     if (font.target_type == PS_TYPE_42 ||
         font.target_type == PS_TYPE_42_3_HYBRID)
     {

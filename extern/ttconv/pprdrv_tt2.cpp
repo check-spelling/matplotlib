@@ -131,7 +131,7 @@ void GlyphToType3::stack_end(TTStreamWriter& stream)                    /* calle
 } /* end of stack_end() */
 
 /*
-** We call this routine to emmit the PostScript code
+** We call this routine to emit the PostScript code
 ** for the character we have loaded with load_char().
 */
 void GlyphToType3::PSConvert(TTStreamWriter& stream)
