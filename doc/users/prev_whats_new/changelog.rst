@@ -3293,7 +3293,7 @@ the `API changes <../../api/api_changes.html>`_.
     PickEvent - Details and examples in examples/pick_event_demo.py - JDH
 
 2007-01-16
-    Begun work on a new pick API using the mpl event handling frameowrk.
+    Begun work on a new pick API using the mpl event handling framework.
     Artists will define their own pick method with a configurable epsilon
     tolerance and return pick attrs.  All artists that meet the tolerance
     threshold will fire a PickEvent with artist dependent attrs; e.g., a Line2D
