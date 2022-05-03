@@ -6313,7 +6313,7 @@ This is the Old, stale, never used changelog
     Added figure text with new example examples/figtext.py
 
 2003-08-27
-    Fixed bugs i figure text with font override dictionairies and fig text that
+    Fixed bugs i figure text with font override dictionaries and fig text that
     was placed outside the window bounding box
 
 2003-09-01 through 2003-09-15
