@@ -273,7 +273,7 @@ class Collection(artist.Artist, cm.ScalarMappable):
             # transforms.get_affine().contains_branch(transData).  But later,
             # be careful to only apply the affine part that remains.
 
-        if any(transform.contains_branch_seperately(transData)):
+        if any(transform.contains_branch_separately(transData)):
             # collections that are just in data units (like quiver)
             # can properly have the axes limits set by their shape +
             # offset.  LineCollections that have no offsets can

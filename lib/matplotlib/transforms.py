@@ -1389,7 +1389,7 @@ class Transform(TransformNode):
                 return True
         return False
 
-    def contains_branch_seperately(self, other_transform):
+    def contains_branch_separately(self, other_transform):
         """
         Return whether the given branch is a sub-tree of this transform on
         each separate dimension.
@@ -1397,11 +1397,11 @@ class Transform(TransformNode):
         A common use for this method is to identify if a transform is a blended
         transform containing an Axes' data transform. e.g.::
 
-            x_isdata, y_isdata = trans.contains_branch_seperately(ax.transData)
+            x_isdata, y_isdata = trans.contains_branch_separately(ax.transData)
 
         """
         if self.output_dims != 2:
-            raise ValueError('contains_branch_seperately only supports '
+            raise ValueError('contains_branch_separately only supports '
                              'transforms with 2 output dimensions')
         # for a non-blended transform each separate dimension is the same, so
         # just return the appropriate shape.
@@ -2169,7 +2169,7 @@ class _BlendedMixin:
         else:
             return NotImplemented
 
-    def contains_branch_seperately(self, transform):
+    def contains_branch_separately(self, transform):
         return (self._x.contains_branch(transform),
                 self._y.contains_branch(transform))
 

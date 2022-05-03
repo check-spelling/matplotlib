@@ -5854,7 +5854,7 @@ default: :rc:`scatter.edgecolors`
                 hasattr(t, '_as_mpl_transform')):
             t = t._as_mpl_transform(self.axes)
 
-        if t and any(t.contains_branch_seperately(self.transData)):
+        if t and any(t.contains_branch_separately(self.transData)):
             trans_to_data = t - self.transData
             pts = np.vstack([x, y]).T.astype(float)
             transformed_pts = trans_to_data.transform(pts)
@@ -6086,7 +6086,7 @@ default: :rc:`scatter.edgecolors`
                 hasattr(t, '_as_mpl_transform')):
             t = t._as_mpl_transform(self.axes)
 
-        if t and any(t.contains_branch_seperately(self.transData)):
+        if t and any(t.contains_branch_separately(self.transData)):
             trans_to_data = t - self.transData
             coords = trans_to_data.transform(coords)
 
