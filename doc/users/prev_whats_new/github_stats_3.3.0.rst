@@ -306,7 +306,7 @@ Pull Requests (1066):
 * :ghpull:`17540`: Fix help window on GTK.
 * :ghpull:`17535`: Update docs on subplot2grid / SubplotBase
 * :ghpull:`17510`: Fix exception handling in FT2Font init.
-* :ghpull:`16953`: Changed 'colors' paramater in PyPlot vlines/hlines and Axes vlines/hlines to default to configured rcParams 'lines.color' option
+* :ghpull:`16953`: Changed 'colors' parameter in PyPlot vlines/hlines and Axes vlines/hlines to default to configured rcParams 'lines.color' option
 * :ghpull:`17459`: Use light icons on dark themes for wx and gtk, too.
 * :ghpull:`17539`: Use symbolic icons for buttons in GTK toolbar.
 * :ghpull:`15435`: Reuse png metadata handling of imsave() in FigureCanvasAgg.print_png().
@@ -1400,7 +1400,7 @@ Issues (198):
 * :ghissue:`16299`: The interactive polar plot animation's axis label won't scale.
 * :ghissue:`15182`: More tests ``ConciseDateFormatter`` needed
 * :ghissue:`16140`: Unclear Documentation for get_xticklabels
-* :ghissue:`16147`: pp.hist parmeter 'density' does not scale data appropriately
+* :ghissue:`16147`: pp.hist parameter 'density' does not scale data appropriately
 * :ghissue:`16069`: matplotlib glitch when rotating interactively a 3d animation
 * :ghissue:`14603`: Scatterplot: should vmin/vmax be ignored when a norm is specified?
 * :ghissue:`15730`: Setting lines.marker = s in matplotlibrc also sets markers in boxplots
