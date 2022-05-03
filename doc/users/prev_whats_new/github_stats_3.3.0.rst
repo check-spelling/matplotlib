@@ -1423,7 +1423,7 @@ Issues (198):
 * :ghissue:`15089`: Coerce MxNx1 images into MxN images for imshow
 * :ghissue:`5253`: abline() - for drawing arbitrary lines on a plot, given specifications.
 * :ghissue:`15165`: Switch to requiring Pillow rather than having our own png wrapper?
-* :ghissue:`15280`: Add pull request checklist to Reviewers Guidlines
+* :ghissue:`15280`: Add pull request checklist to Reviewers Guidelines
 * :ghissue:`15289`: cbook.warn_deprecated() should warn with a MatplotlibDeprecationWarning not a UserWarning
 * :ghissue:`15285`: DOC: make copy right year auto-update
 * :ghissue:`15059`: fig.add_axes() with no arguments silently does nothing
