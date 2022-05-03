@@ -1118,7 +1118,7 @@ Issues (161):
 * :ghissue:`13785`: Imshow gives values out of the extent
 * :ghissue:`13786`: Cannot import matplotlib.animation
 * :ghissue:`13561`: Progress of animation.save (for long animations)
-* :ghissue:`13735`: title doesn't move for ticklables....
+* :ghissue:`13735`: title doesn't move for ticklabels....
 * :ghissue:`12175`: Example link near markevery in the "What's new in 3.0" page is malformed/broken
 * :ghissue:`13713`: Boxplot xlim not correctly calculated
 * :ghissue:`11070`: Add a "density" kwarg to hist2d
