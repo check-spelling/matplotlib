@@ -811,7 +811,7 @@ Pull Requests (839):
 * :ghpull:`14310`: Update to Bounding Box for Qt5 FigureCanvasATAgg.paintEvent()
 * :ghpull:`14380`: Inline $MPLLOCALFREETYPE/$PYTEST_ADDOPTS/$NPROC in .travis.yml.
 * :ghpull:`14413`: MAINT: small improvements to the pdf backend
-* :ghpull:`14452`: MAINT: Minor cleanup to make functions more self consisntent
+* :ghpull:`14452`: MAINT: Minor cleanup to make functions more self consistent
 * :ghpull:`14441`: Misc. docstring cleanups.
 * :ghpull:`14440`: Interpolations example
 * :ghpull:`14402`: Prefer ``mpl.get_data_path()``, and support Paths in FontProperties.
