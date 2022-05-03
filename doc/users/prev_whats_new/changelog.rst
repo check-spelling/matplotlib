@@ -3218,7 +3218,7 @@ the `API changes <../../api/api_changes.html>`_.
 
     The backend has been updated to use new wxPython functionality to provide
     fast blit() animation without the C++ accelerator.  This requires wxPython
-    2.8 or later.  Previous versions of wxPython can use the C++ acclerator or
+    2.8 or later.  Previous versions of wxPython can use the C++ accelerator or
     the old pure Python routines.
 
     setup.py no longer builds the C++ accelerator when wxPython >= 2.8 is
