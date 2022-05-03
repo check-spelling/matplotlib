@@ -437,10 +437,10 @@ namespace agg
 		gettimeofday(&tv, 0);
 		double end_time = tv.tv_secs + tv.tv_micro/1e6;
 
-		double elasped_seconds = end_time - m_specific->m_start_time;
-		double elasped_millis = elasped_seconds*1e3;
+		double elapsed_seconds = end_time - m_specific->m_start_time;
+		double elapsed_millis = elapsed_seconds*1e3;
 
-		return elasped_millis;
+		return elapsed_millis;
 	}
 
 	//------------------------------------------------------------------------

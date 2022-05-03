@@ -83,7 +83,7 @@ Pull Requests (224):
 * :ghpull:`12670`: FIX: add setter for hold to un-break basemap
 * :ghpull:`12693`: Workaround Text3D breaking tight_layout()
 * :ghpull:`12727`: Reorder API docs: separate file per module
-* :ghpull:`12738`: Add unobtrusive depreaction note to the first line of the docstring.
+* :ghpull:`12738`: Add unobtrusive depreciation note to the first line of the docstring.
 * :ghpull:`12740`: DOC: constrained layout guide (fix: Spacing with colorbars)
 * :ghpull:`11663`: Refactor color parsing of Axes.scatter
 * :ghpull:`12736`: Move deprecation note to end of docstring
@@ -117,7 +117,7 @@ Pull Requests (224):
 * :ghpull:`12651`: FIX: ignore non-finite bbox
 * :ghpull:`12653`: Don't warn when accessing deprecated properties from the class.
 * :ghpull:`12608`: ENH: allow matplotlib.use after getbackend
-* :ghpull:`12658`: Do not warn-depreacted when iterating over rcParams
+* :ghpull:`12658`: Do not warn-deprecated when iterating over rcParams
 * :ghpull:`12635`: FIX: allow non bbox_extra_artists calls
 * :ghpull:`12659`: Add note that developer discussions are private
 * :ghpull:`12543`: Make rcsetup.py flak8 compliant
@@ -183,7 +183,7 @@ Pull Requests (224):
 * :ghpull:`12457`: Fix tutorial typos.
 * :ghpull:`12453`: Rollback erroneous commit to whats_new.rst from #10746
 * :ghpull:`12452`: Minor updates to the FAQ.
-* :ghpull:`10746`: Adjusted matplotlib.widgets.Slider to have optional vertical orientatation
+* :ghpull:`10746`: Adjusted matplotlib.widgets.Slider to have optional vertical orientation
 * :ghpull:`12441`: Get rid of a signed-compare warning.
 * :ghpull:`12430`: Deprecate Axes3D.plot_surface(shade=None)
 * :ghpull:`12435`: Fix numpydoc parameter formatting
@@ -246,7 +246,7 @@ Pull Requests (224):
 * :ghpull:`12278`: Document inheriting docstrings
 * :ghpull:`12262`: Simplify empty-rasterized pdf test.
 * :ghpull:`12269`: Add some param docs to BlockingInput methods
-* :ghpull:`12272`: Fix ``contrained`` to ``constrained``
+* :ghpull:`12272`: Fix ``constrained`` to ``constrained``
 * :ghpull:`12255`: Deduplicate inherited docstrings.
 * :ghpull:`12254`: Improve docstrings of Animations
 * :ghpull:`12258`: Fix CSS for module-level data
@@ -311,7 +311,7 @@ Issues (170):
 * :ghissue:`12703`: Error when closing first of several pyplot figures in TkAgg
 * :ghissue:`12728`: Deprecation Warnings
 * :ghissue:`4124`: Provide canonical examples of mpl in web frameworks
-* :ghissue:`10574`: Default color after setting alptha to Patch in legened
+* :ghissue:`10574`: Default color after setting alpha to Patch in legend
 * :ghissue:`12702`: couldn't find or load Qt platform plugin "windows" in "".
 * :ghissue:`11139`: "make clean" doesn't remove all the build doc files
 * :ghissue:`12701`: semilogy with NaN prevents display of Title (cairo backend)
@@ -358,7 +358,7 @@ Issues (170):
 * :ghissue:`12564`: Saving plot as PNG file prunes tick labels 
 * :ghissue:`12161`: Problems of using sharex options with lines plots and colormesh with colorbar
 * :ghissue:`12256`: tight_layout for plot with non-clipped screen-unit items causes issues on zoom
-* :ghissue:`12545`: Program quit unormally without reporting error
+* :ghissue:`12545`: Program quit abnormally without reporting error
 * :ghissue:`12532`: Incorrect rendering of math symbols
 * :ghissue:`12567`: Calling pyplot.show() with TkAgg backend on x86 machine raises OverflowError.
 * :ghissue:`12571`: cannot install because Fatal Python error: initfsencoding: Unable to get the locale encoding

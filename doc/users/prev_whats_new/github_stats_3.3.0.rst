@@ -163,10 +163,10 @@ Pull Requests (1066):
 
 * :ghpull:`17943`: Backport PR #17942 on branch v3.3.x (Increase heading level for 3.3 What's New)
 * :ghpull:`17942`: Increase heading level for 3.3 What's New
-* :ghpull:`17941`: Backport PR #17938 on branch v3.3.x (Don't allow 1D lists as subplot_moasic layout.)
+* :ghpull:`17941`: Backport PR #17938 on branch v3.3.x (Don't allow 1D lists as subplot_mosaic layout.)
 * :ghpull:`17940`: Backport PR #17885 on branch v3.3.x (BF: ignore CLOSEPOLY after NaN in PathNanRemover)
 * :ghpull:`17937`: Backport PR #17877 on branch v3.3.x (Fix drawing zoom rubberband on GTK backends.)
-* :ghpull:`17938`: Don't allow 1D lists as subplot_moasic layout.
+* :ghpull:`17938`: Don't allow 1D lists as subplot_mosaic layout.
 * :ghpull:`17885`: BF: ignore CLOSEPOLY after NaN in PathNanRemover
 * :ghpull:`17877`: Fix drawing zoom rubberband on GTK backends.
 * :ghpull:`17933`: Backport PR #17858 on branch v3.3.x (Refresh what's new page for 3.3.0)
@@ -306,7 +306,7 @@ Pull Requests (1066):
 * :ghpull:`17540`: Fix help window on GTK.
 * :ghpull:`17535`: Update docs on subplot2grid / SubplotBase
 * :ghpull:`17510`: Fix exception handling in FT2Font init.
-* :ghpull:`16953`: Changed 'colors' paramater in PyPlot vlines/hlines and Axes vlines/hlines to default to configured rcParams 'lines.color' option
+* :ghpull:`16953`: Changed 'colors' parameter in PyPlot vlines/hlines and Axes vlines/hlines to default to configured rcParams 'lines.color' option
 * :ghpull:`17459`: Use light icons on dark themes for wx and gtk, too.
 * :ghpull:`17539`: Use symbolic icons for buttons in GTK toolbar.
 * :ghpull:`15435`: Reuse png metadata handling of imsave() in FigureCanvasAgg.print_png().
@@ -467,9 +467,9 @@ Pull Requests (1066):
 * :ghpull:`17137`: Deprecate Toolbar.press/release; add helper to find overridden methods.
 * :ghpull:`17245`: Improve error handling in _parse_scatter_color_args
 * :ghpull:`15008`: ENH: add variable epoch
-* :ghpull:`17260`: Text Rotation Example: Correct roation_mode typo
+* :ghpull:`17260`: Text Rotation Example: Correct rotation_mode typo
 * :ghpull:`17258`: Improve info logged by tex subsystem.
-* :ghpull:`17211`: Deprecate support for running svg converter from path contaning newline.
+* :ghpull:`17211`: Deprecate support for running svg converter from path containing newline.
 * :ghpull:`17078`: Improve nbAgg & WebAgg toolbars
 * :ghpull:`17191`: Inline unsampled-image path; remove renderer kwarg from _check_unsampled_image.
 * :ghpull:`17213`: Replace use of Bbox.bounds by appropriate properties.
@@ -510,7 +510,7 @@ Pull Requests (1066):
 * :ghpull:`17162`: Update docs of rc_context()
 * :ghpull:`17170`: Convert SubplotZero example into centered-spines-with-arrows recipe.
 * :ghpull:`17164`: Fix Figure.add_axes(rect=...).
-* :ghpull:`17154`: DOC: Fix some warning and unreproducibility
+* :ghpull:`17154`: DOC: Fix some warning and irreproducibility
 * :ghpull:`17169`: Clarify that draw_event occurs after the canvas draw.
 * :ghpull:`17089`: Cleanup some imports in tests
 * :ghpull:`17040`: Improve docs on automated tests
@@ -789,12 +789,12 @@ Pull Requests (1066):
 * :ghpull:`16560`: Update URL to pyparsing.
 * :ghpull:`16292`: More edits to Normalize docstrings.
 * :ghpull:`16536`: API/TST: minimum versions
-* :ghpull:`16559`: 3D example avoid using statefull .gca()
+* :ghpull:`16559`: 3D example avoid using stateful .gca()
 * :ghpull:`16553`: DOC: clarify the expected shapes of eventplot input
 * :ghpull:`16535`: Clarify docs of num parameter of plt.figure()
 * :ghpull:`16547`: Reformat/reword mathtext docstrings.
 * :ghpull:`16545`: Add a smoketest for ps.usedistiller="xpdf".
-* :ghpull:`16529`: Deprecate toggling axes navigatability using the keyboard.
+* :ghpull:`16529`: Deprecate toggling axes navigability using the keyboard.
 * :ghpull:`16521`: Remove more API deprecated in 3.1.
 * :ghpull:`16481`: Update set_thetalim documentation
 * :ghpull:`16524`: Cleanup docstrings
@@ -860,7 +860,7 @@ Pull Requests (1066):
 * :ghpull:`16439`: Rework pylab docstring.
 * :ghpull:`16441`: Rework pylab docstring.
 * :ghpull:`16442`: Expire deprecation of \stackrel.
-* :ghpull:`16365`: TST: test_acorr (replaced image comparison with figure comparion)
+* :ghpull:`16365`: TST: test_acorr (replaced image comparison with figure comparison)
 * :ghpull:`16206`: Expire deprecation of \stackrel
 * :ghpull:`16437`: Rework pylab docstring.
 * :ghpull:`8896`: Fix mplot3d projection
@@ -898,7 +898,7 @@ Pull Requests (1066):
 * :ghpull:`16304`: Simplify Legend.get_children.
 * :ghpull:`16309`: Remove duplicated computations in Axes.get_tightbbox.
 * :ghpull:`16314`: Avoid repeatedly warning about too many figures open.
-* :ghpull:`16319`: Put doc for XAxis befor YAxis and likewise for XTick, YTick.
+* :ghpull:`16319`: Put doc for XAxis before YAxis and likewise for XTick, YTick.
 * :ghpull:`16313`: Cleanup constrainedlayout_guide.
 * :ghpull:`16312`: Remove unnecessary Legend._approx_text_height.
 * :ghpull:`16307`: Cleanup axes_demo.
@@ -1133,7 +1133,7 @@ Pull Requests (1066):
 * :ghpull:`15645`: Bump minimal numpy version to 1.12.
 * :ghpull:`15646`: Hide sphinx-gallery config comments
 * :ghpull:`15642`: Remove interpolation="nearest" from most examples.
-* :ghpull:`15671`: Don't mention tcl in tkagg commments anymore.
+* :ghpull:`15671`: Don't mention tcl in tkagg comments anymore.
 * :ghpull:`15607`: Simplify tk loader.
 * :ghpull:`15651`: Simplify axes_pad handling in axes_grid.
 * :ghpull:`15652`: Remove mention of Enthought Canopy from the docs.
@@ -1275,7 +1275,7 @@ Issues (198):
 * :ghissue:`17616`: waitforbuttonpress in Linux
 * :ghissue:`17615`: small bug in documentation of backend.FigureCanvasBase.start_event_loop
 * :ghissue:`17093`: Zero size figure use case
-* :ghissue:`17608`: How avoid PyQt5 to crash when I move Qslitter to the edge with a matplotlib figure in it?
+* :ghissue:`17608`: How avoid PyQt5 to crash when I move QSplitter to the edge with a matplotlib figure in it?
 * :ghissue:`9829`: Vertices clipped for certain markers when plotting more than two points and saving as pdf
 * :ghissue:`15815`: bar3d color length bug
 * :ghissue:`15376`: ScalarFormatter.set_powerlimits documentation seems inconsistent
@@ -1378,7 +1378,7 @@ Issues (198):
 * :ghissue:`16389`: “Size” ignored if placed before fontproperties
 * :ghissue:`16687`: Creating a figure of size (0, 0) raises an error
 * :ghissue:`12729`: Docs for contour levels argument is incorrect
-* :ghissue:`16593`: specifying ecolor in errobar turns off cycling
+* :ghissue:`16593`: specifying ecolor in errorbar turns off cycling
 * :ghissue:`15621`: secondary_xaxis doesn't seem to use formatters
 * :ghissue:`16116`: travis36minver.txt needs an update
 * :ghissue:`16546`: Problem with eventplot - error message claims events & lineoffsets are unequal sizes
@@ -1400,7 +1400,7 @@ Issues (198):
 * :ghissue:`16299`: The interactive polar plot animation's axis label won't scale.
 * :ghissue:`15182`: More tests ``ConciseDateFormatter`` needed
 * :ghissue:`16140`: Unclear Documentation for get_xticklabels
-* :ghissue:`16147`: pp.hist parmeter 'density' does not scale data appropriately
+* :ghissue:`16147`: pp.hist parameter 'density' does not scale data appropriately
 * :ghissue:`16069`: matplotlib glitch when rotating interactively a 3d animation
 * :ghissue:`14603`: Scatterplot: should vmin/vmax be ignored when a norm is specified?
 * :ghissue:`15730`: Setting lines.marker = s in matplotlibrc also sets markers in boxplots
@@ -1423,7 +1423,7 @@ Issues (198):
 * :ghissue:`15089`: Coerce MxNx1 images into MxN images for imshow
 * :ghissue:`5253`: abline() - for drawing arbitrary lines on a plot, given specifications.
 * :ghissue:`15165`: Switch to requiring Pillow rather than having our own png wrapper?
-* :ghissue:`15280`: Add pull request checklist to Reviewers Guidlines
+* :ghissue:`15280`: Add pull request checklist to Reviewers Guidelines
 * :ghissue:`15289`: cbook.warn_deprecated() should warn with a MatplotlibDeprecationWarning not a UserWarning
 * :ghissue:`15285`: DOC: make copy right year auto-update
 * :ghissue:`15059`: fig.add_axes() with no arguments silently does nothing

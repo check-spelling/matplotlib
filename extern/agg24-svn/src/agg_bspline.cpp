@@ -259,7 +259,7 @@ namespace agg
                        x >= m_x[m_last_idx - 1] && 
                        x <= m_x[m_last_idx])
                     {
-                        // x is between pevious points
+                        // x is between previous points
                         --m_last_idx;
                     }
                     else

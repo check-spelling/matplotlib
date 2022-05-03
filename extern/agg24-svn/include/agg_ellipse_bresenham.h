@@ -13,7 +13,7 @@
 //          http://www.antigrain.com
 //----------------------------------------------------------------------------
 //
-// Simple Bresenham interpolator for ellipsees
+// Simple Bresenham interpolator for ellipses
 //
 //----------------------------------------------------------------------------
 

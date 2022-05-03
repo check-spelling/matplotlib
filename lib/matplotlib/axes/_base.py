@@ -738,7 +738,7 @@ class _AxesBase(martist.Artist):
         Return the Axes bounding box in display space; *args* and *kwargs*
         are empty.
 
-        This bounding box does not include the spines, ticks, ticklables,
+        This bounding box does not include the spines, ticks, ticklabels,
         or other labels.  For a bounding box including these elements use
         `~matplotlib.axes.Axes.get_tightbbox`.
 
@@ -2329,7 +2329,7 @@ class _AxesBase(martist.Artist):
 
         if line_trf == self.transData:
             data_path = path
-        elif any(line_trf.contains_branch_seperately(self.transData)):
+        elif any(line_trf.contains_branch_separately(self.transData)):
             # Compute the transform from line coordinates to data coordinates.
             trf_to_data = line_trf - self.transData
             # If transData is affine we can use the cached non-affine component
@@ -2352,7 +2352,7 @@ class _AxesBase(martist.Artist):
         if not data_path.vertices.size:
             return
 
-        updatex, updatey = line_trf.contains_branch_seperately(self.transData)
+        updatex, updatey = line_trf.contains_branch_separately(self.transData)
         if self.name != "rectilinear":
             # This block is mostly intended to handle axvline in polar plots,
             # for which updatey would otherwise be True.
@@ -2398,14 +2398,14 @@ class _AxesBase(martist.Artist):
         for curve, code in p.iter_bezier():
             # Get distance along the curve of any extrema
             _, dzeros = curve.axis_aligned_extrema()
-            # Calculate vertcies of start, end and any extrema in between
+            # Calculate vertices of start, end and any extrema in between
             vertices.append(curve([0, *dzeros, 1]))
 
         if len(vertices):
             vertices = np.row_stack(vertices)
 
         patch_trf = patch.get_transform()
-        updatex, updatey = patch_trf.contains_branch_seperately(self.transData)
+        updatex, updatey = patch_trf.contains_branch_separately(self.transData)
         if not (updatex or updatey):
             return
         if self.name != "rectilinear":

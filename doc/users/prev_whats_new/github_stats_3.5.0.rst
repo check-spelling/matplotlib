@@ -1024,7 +1024,7 @@ Pull Requests (939):
 * :ghpull:`19564`: Micro-optimize type1font loading
 * :ghpull:`19623`: FIX: Contour lines rendered incorrectly when closed loops
 * :ghpull:`19902`: Implement ``ArtistList.__[r]add__``.
-* :ghpull:`19904`: Don't set zoom/pan cursor for non-navigatable axes.
+* :ghpull:`19904`: Don't set zoom/pan cursor for non-navigable axes.
 * :ghpull:`19909`: Use unicode when interactively displaying 3d azim/elev.
 * :ghpull:`19905`: pyplot: do not apply kwargs twice in to x/yticklabels
 * :ghpull:`19126`: Move pixel ratio handling into FigureCanvasBase
@@ -1033,7 +1033,7 @@ Pull Requests (939):
 * :ghpull:`19889`: Include length in ArtistList repr.
 * :ghpull:`19887`: Fix E265 in test files.
 * :ghpull:`19882`: Use ax.set() for a more compact notation of styling in plot types docs
-* :ghpull:`17231`: Fix errobar order
+* :ghpull:`17231`: Fix errorbar order
 * :ghpull:`19703`: DOC:  new plot gallery
 * :ghpull:`19825`: Factor out machinery for running subprocess tk tests.
 * :ghpull:`19872`: Fix unit handling in errorbar for astropy.
@@ -1074,7 +1074,7 @@ Pull Requests (939):
 * :ghpull:`19733`: Reword AutoDateFormatter docs.
 * :ghpull:`19718`: Small style fixes to matplotlibrc.template.
 * :ghpull:`19679`: Add inheritance diagram to patches docs
-* :ghpull:`19717`: Don't sort lexicographially entries in SVG output.
+* :ghpull:`19717`: Don't sort lexicographically entries in SVG output.
 * :ghpull:`19716`: Fix colon placement in issue template.
 * :ghpull:`19704`: Cleanup license page in docs
 * :ghpull:`19487`: Deprecate unused \*args to print_<foo>.
@@ -1121,15 +1121,15 @@ Issues (187):
 * :ghissue:`20847`: [Bug]: Contourf not filling contours.
 * :ghissue:`21300`: [Bug]: zooming in on contour plot gives false extra contour lines
 * :ghissue:`21466`: [Bug]: EPS export shows hidden tick labels when using tex for text rendering
-* :ghissue:`21463`: [Bug]: Plotting lables with Greek latters in math mode produces Parsing error when plt.show() runs
-* :ghissue:`20534`: Document formatting for for sections
+* :ghissue:`21463`: [Bug]: Plotting labels with Greek letters in math mode produces Parsing error when plt.show() runs
+* :ghissue:`20534`: Document formatting for sections
 * :ghissue:`21246`: [Doc]: Install info takes up too much room on new front page
 * :ghissue:`21432`: [Doc]: Double clicking parameter name also highlights next item of text
 * :ghissue:`21310`: [Bug]: contour on 3d plot fails if x and y are 1d and different lengths
 * :ghissue:`18213`: Figure out why test_interactive_backend fails on Travis macOS
 * :ghissue:`21090`: [MNT]: Should set_size_inches be updated to use device_pixel_ratio?
 * :ghissue:`13948`: Allow colorbar.ax.set_ylim to set the colorbar limits?
-* :ghissue:`21314`: Inconsistensy in ``pyplot.pcolormesh`` docstring regarding default value for ``shading``
+* :ghissue:`21314`: Inconsistency in ``pyplot.pcolormesh`` docstring regarding default value for ``shading``
 * :ghissue:`21320`: [Doc]: Incorrect image caption in imshow() example
 * :ghissue:`21311`: [Doc]: dead link for agg
 * :ghissue:`20929`: [Bug]: PyPy Win64 wheels use incorrect version
@@ -1157,7 +1157,7 @@ Issues (187):
 * :ghissue:`16251`: API changes are too hard to find in the rendered docs
 * :ghissue:`20770`: [Doc]: How to replicate behaviour of ``plt.gca(projection=...)``?
 * :ghissue:`17052`: Colorbar update error with clim change in multi_image.py example
-* :ghissue:`4387`: make ``Normalize`` objects notifiy scalar-mappables on changes
+* :ghissue:`4387`: make ``Normalize`` objects notify scalar-mappables on changes
 * :ghissue:`20001`: rename fig.draw_no_output
 * :ghissue:`20936`: [Bug]: edgecolor 'auto' doesn't work properly
 * :ghissue:`20909`: [Bug]: Animation error message
@@ -1241,7 +1241,7 @@ Issues (187):
 * :ghissue:`17508`: Quadmesh.set_array should validate dimensions
 * :ghissue:`20372`: Incorrect axes positioning in axes_grid.Grid with direction='column'
 * :ghissue:`19419`: Dev version hard to check
-* :ghissue:`17310`: Matplotlib git master version fails to pass serveral pytest's tests.
+* :ghissue:`17310`: Matplotlib git master version fails to pass several pytest's tests.
 * :ghissue:`7742`: plot_date() after axhline() doesn't rescale axes
 * :ghissue:`20322`: QuadMesh default for shading inadvertently changed.
 * :ghissue:`9653`: SVG savefig + LaTeX extremely slow on macOS

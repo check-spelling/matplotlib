@@ -926,13 +926,13 @@ Pull Requests (598):
 * :ghpull:`10955`: Py3fy cbook, compare_backend_driver_results
 * :ghpull:`10680`: Rewrite the tk C blitting code
 * :ghpull:`9498`: Move title up if x-axis is on the top of the figure
-* :ghpull:`10942`: Make active param in CheckBottons optional, default false
+* :ghpull:`10942`: Make active param in CheckButtons optional, default false
 * :ghpull:`10943`: Allow pie textprops to take alignment and rotation arguments
 * :ghpull:`10780`: Fix scaling of RadioButtons
 * :ghpull:`10938`: Fix two undefined names
 * :ghpull:`10685`: fix plt.show doesn't warn if a non-GUI backend
 * :ghpull:`10689`: Declare global variables that are created elsewhere
-* :ghpull:`10845`: WIP: first draft at replacing linkcheker
+* :ghpull:`10845`: WIP: first draft at replacing linkchecker
 * :ghpull:`10898`: Replace "matplotlibrc" by "rcParams" in the docs where applicable.
 * :ghpull:`10926`: Some more removals of deprecated APIs.
 * :ghpull:`9173`: dynamically generate pyplot functions

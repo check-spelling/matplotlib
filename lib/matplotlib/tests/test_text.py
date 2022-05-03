@@ -376,7 +376,7 @@ def test_get_rotation_int():
 
 def test_get_rotation_raises():
     with pytest.raises(ValueError):
-        Text(rotation='hozirontal')
+        Text(rotation='horizontal')
 
 
 def test_get_rotation_none():

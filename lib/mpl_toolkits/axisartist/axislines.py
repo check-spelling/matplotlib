@@ -192,7 +192,7 @@ class AxisArtistHelper:
                 "get_line method should be defined by the derived class")
 
 
-class AxisArtistHelperRectlinear:
+class AxisArtistHelperRectilinear:
 
     class Fixed(AxisArtistHelper.Fixed):
 
@@ -355,7 +355,7 @@ class GridHelperBase:
         return gridlines
 
 
-class GridHelperRectlinear(GridHelperBase):
+class GridHelperRectilinear(GridHelperBase):
 
     def __init__(self, axes):
         super().__init__()
@@ -373,7 +373,7 @@ class GridHelperRectlinear(GridHelperBase):
                 "'new_fixed_axis' explicitly requires the axes keyword.")
             axes = self.axes
 
-        _helper = AxisArtistHelperRectlinear.Fixed(axes, loc, nth_coord)
+        _helper = AxisArtistHelperRectilinear.Fixed(axes, loc, nth_coord)
 
         if axis_direction is None:
             axis_direction = loc
@@ -393,7 +393,7 @@ class GridHelperRectlinear(GridHelperBase):
                 "'new_floating_axis' explicitly requires the axes keyword.")
             axes = self.axes
 
-        _helper = AxisArtistHelperRectlinear.Floating(
+        _helper = AxisArtistHelperRectilinear.Floating(
             axes, nth_coord, value, axis_direction)
 
         axisline = AxisArtist(axes, _helper, axis_direction=axis_direction)
@@ -444,7 +444,7 @@ class Axes(maxes.Axes):
     def __init__(self, *args, grid_helper=None, **kwargs):
         self._axisline_on = True
         self._grid_helper = (grid_helper if grid_helper
-                             else GridHelperRectlinear(self))
+                             else GridHelperRectilinear(self))
         super().__init__(*args, **kwargs)
         self.toggle_axisline(True)
 

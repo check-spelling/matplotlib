@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 from matplotlib.testing.decorators import image_comparison
 
-from mpl_toolkits.axisartist import AxisArtistHelperRectlinear
+from mpl_toolkits.axisartist import AxisArtistHelperRectilinear
 from mpl_toolkits.axisartist.axis_artist import (AxisArtist, AxisLabel,
                                                  LabelBase, Ticks, TickLabels)
 
@@ -87,7 +87,7 @@ def test_axis_artist():
     ax.yaxis.set_visible(False)
 
     for loc in ('left', 'right', 'bottom'):
-        _helper = AxisArtistHelperRectlinear.Fixed(ax, loc=loc)
+        _helper = AxisArtistHelperRectilinear.Fixed(ax, loc=loc)
         axisline = AxisArtist(ax, _helper, offset=None, axis_direction=loc)
         ax.add_artist(axisline)
 

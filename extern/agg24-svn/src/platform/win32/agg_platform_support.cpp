@@ -1512,7 +1512,7 @@ namespace agg
             char c = *pstr;
             int found = 0;
 
-            //We are outside of qotation: find one of separator symbols
+            //We are outside of quotation: find one of separator symbols
             if(quote_chr == 0)
             {
                 if(sep_len == 1)

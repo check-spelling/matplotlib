@@ -1,6 +1,6 @@
 from .axislines import (
-    Axes, AxesZero, AxisArtistHelper, AxisArtistHelperRectlinear,
-    GridHelperBase, GridHelperRectlinear, Subplot, SubplotZero)
+    Axes, AxesZero, AxisArtistHelper, AxisArtistHelperRectilinear,
+    GridHelperBase, GridHelperRectilinear, Subplot, SubplotZero)
 from .axis_artist import AxisArtist, GridlinesCollection
 from .grid_helper_curvelinear import GridHelperCurveLinear
 from .floating_axes import FloatingAxes, FloatingSubplot

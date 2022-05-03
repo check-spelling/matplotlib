@@ -106,7 +106,7 @@ class AGGView : public BView {
 
     virtual void            MouseDown(BPoint where);
     virtual void            MouseMoved(BPoint where, uint32 transit,
-                               const BMessage* dragMesage);
+                               const BMessage* dragMessage);
     virtual void            MouseUp(BPoint where);
 
             BBitmap*        Bitmap() const;
@@ -412,9 +412,9 @@ AGGView::MouseDown(BPoint where)
 
 
 void
-AGGView::MouseMoved(BPoint where, uint32 transit, const BMessage* dragMesage)
+AGGView::MouseMoved(BPoint where, uint32 transit, const BMessage* dragMessage)
 {
-    // workarround missed mouse up events
+    // workaround missed mouse up events
     // (if we react too slowly, app_server might have dropped events)
     BMessage* currentMessage = Window()->CurrentMessage();
     int32 buttons = 0;

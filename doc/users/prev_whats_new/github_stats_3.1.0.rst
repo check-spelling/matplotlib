@@ -282,9 +282,9 @@ Pull Requests (918):
 * :ghpull:`13946`: Backport PR #13924 on branch v3.1.x (Followup to deprecation of usetex parameter in get_text_path.)
 * :ghpull:`13924`: Followup to deprecation of usetex parameter in get_text_path.
 * :ghpull:`13916`: Backport PR #13850 on branch v3.1.x (Cleanup STIX Font Demo)
-* :ghpull:`13915`: Backport PR #13835 on branch v3.1.x (Improve Conectionstyle Demo)
+* :ghpull:`13915`: Backport PR #13835 on branch v3.1.x (Improve Connectionstyle Demo)
 * :ghpull:`13850`: Cleanup STIX Font Demo
-* :ghpull:`13835`: Improve Conectionstyle Demo
+* :ghpull:`13835`: Improve Connectionstyle Demo
 * :ghpull:`13846`: Backport PR #13836 on branch v3.1.x (MNT: account for cpython deprecations)
 * :ghpull:`13898`: Backport PR #13896 on branch v3.1.x (Fix cbook.boxplot_stats docstring)
 * :ghpull:`13896`: Fix cbook.boxplot_stats docstring
@@ -871,7 +871,7 @@ Pull Requests (918):
 * :ghpull:`12749`: Move toolmanager warning from logging to warning.
 * :ghpull:`12598`: Support Cn colors with n>=10.
 * :ghpull:`12727`: Reorder API docs: separate file per module
-* :ghpull:`12738`: Add unobtrusive depreaction note to the first line of the docstring.
+* :ghpull:`12738`: Add unobtrusive depreciation note to the first line of the docstring.
 * :ghpull:`11663`: Refactor color parsing of Axes.scatter
 * :ghpull:`12736`: Move deprecation note to end of docstring
 * :ghpull:`12704`: Rename tkinter import from Tk to tk.
@@ -924,7 +924,7 @@ Pull Requests (918):
 * :ghpull:`12460`: Deprecate RendererBase.strip_math.
 * :ghpull:`12453`: Rollback erroneous commit to whats_new.rst from #10746
 * :ghpull:`12452`: Minor updates to the FAQ.
-* :ghpull:`10746`: Adjusted matplotlib.widgets.Slider to have optional vertical orientatation
+* :ghpull:`10746`: Adjusted matplotlib.widgets.Slider to have optional vertical orientation
 * :ghpull:`12441`: Get rid of a signed-compare warning.
 * :ghpull:`12430`: Deprecate Axes3D.plot_surface(shade=None)
 * :ghpull:`12435`: Fix numpydoc parameter formatting
@@ -1118,7 +1118,7 @@ Issues (161):
 * :ghissue:`13785`: Imshow gives values out of the extent
 * :ghissue:`13786`: Cannot import matplotlib.animation
 * :ghissue:`13561`: Progress of animation.save (for long animations)
-* :ghissue:`13735`: title doesn't move for ticklables....
+* :ghissue:`13735`: title doesn't move for ticklabels....
 * :ghissue:`12175`: Example link near markevery in the "What's new in 3.0" page is malformed/broken
 * :ghissue:`13713`: Boxplot xlim not correctly calculated
 * :ghissue:`11070`: Add a "density" kwarg to hist2d

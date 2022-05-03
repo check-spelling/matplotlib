@@ -67,7 +67,7 @@ namespace agg
 
     //--------------------------------------------------sbool_add_span_empty
     // Functor.
-    // Add nothing. Used in conbine_shapes_sub
+    // Add nothing. Used in combine_shapes_sub
     //----------------
     template<class Scanline1, 
              class Scanline> 
@@ -1336,7 +1336,7 @@ namespace agg
     //---------------------------------------------------sbool_xor_shapes_aa
     // Apply eXclusive OR to two anti-aliased scanline shapes. There's 
     // a modified "Linear" XOR used instead of classical "Saddle" one.
-    // The reason is to have the result absolutely conststent with what
+    // The reason is to have the result absolutely consistent with what
     // the scanline rasterizer produces.
     // See intersect_shapes_aa for more comments
     //----------
