@@ -156,7 +156,7 @@ namespace agg
     // There's absolut minimal set of flags is used because they'll be most
     // probably supported on different platforms. Even the mouse_right flag
     // is restricted because Mac's mice have only one button, but AFAIK
-    // it can be simulated with holding a special key on the keydoard.
+    // it can be simulated with holding a special key on the keyboard.
     enum input_flag_e
     {
         mouse_left  = 1,
