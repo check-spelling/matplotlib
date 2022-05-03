@@ -194,7 +194,7 @@ the `API changes <../../api/api_changes.html>`_.
     memory.
 
 2013-10-06
-    Improve window and detrend functions in mlab, particulart support for 2D
+    Improve window and detrend functions in mlab, particular support for 2D
     arrays.
 
 2013-10-06
