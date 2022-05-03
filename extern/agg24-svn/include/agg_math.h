@@ -347,8 +347,8 @@ namespace agg
     //     x - value at which the Bessel function is required
     //--------------------
     // C++ Mathematical Library
-    // Convereted from equivalent FORTRAN library
-    // Converetd by Gareth Walker for use by course 392 computational project
+    // Converted from equivalent FORTRAN library
+    // Converted by Gareth Walker for use by course 392 computational project
     // All functions tested and yield the same results as the corresponding
     // FORTRAN versions.
     //
