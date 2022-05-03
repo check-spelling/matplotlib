@@ -827,7 +827,7 @@ Pull Requests (839):
 * :ghpull:`14311`: travis: add c code coverage measurements
 * :ghpull:`14393`: Remove remaining unicode-strings markers.
 * :ghpull:`14391`: Remove explicit inheritance from object
-* :ghpull:`14343`: acquiring and releaseing keypresslock when textbox is being activated
+* :ghpull:`14343`: acquiring and releasing keypresslock when textbox is being activated
 * :ghpull:`14353`: Register flaky pytest marker.
 * :ghpull:`14373`: Properly hide __has_include to support C++<17 compilers.
 * :ghpull:`14378`: Remove setup_method
