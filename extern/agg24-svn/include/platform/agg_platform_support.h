@@ -34,7 +34,7 @@
 // 
 // This file does not include any system dependent .h files such as
 // windows.h or X11.h, so, your demo applications do not depend on the
-// platform. The only file that can #include system dependend headers
+// platform. The only file that can #include system dependent headers
 // is the implementation file agg_platform_support.cpp. Different
 // implementations are placed in different directories, such as
 // ~/agg/src/platform/win32
