@@ -852,7 +852,7 @@ void ttfont_sfnts(TTStreamWriter& stream, struct TTFONT *font)
         {
             continue;
         }
-        debug("emmiting table '%s'",table_names[x]);
+        debug("emitting table '%s'",table_names[x]);
 
         /* 'glyf' table gets special treatment */
         if ( strcmp(table_names[x],"glyf")==0 )
