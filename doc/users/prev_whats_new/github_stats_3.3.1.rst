@@ -83,8 +83,8 @@ Pull Requests (73):
 * :ghpull:`17956`: ENH: Add version check for mac sdk version
 * :ghpull:`18053`: Backport PR #18021: FIX: update num2julian and julian2num
 * :ghpull:`18021`: FIX: update num2julian and julian2num
-* :ghpull:`18041`: Backport PR #18038 on branch v3.3.x (FIX: use internal _set_postion, not external)
-* :ghpull:`18038`: FIX: use internal _set_postion, not external
+* :ghpull:`18041`: Backport PR #18038 on branch v3.3.x (FIX: use internal _set_position, not external)
+* :ghpull:`18038`: FIX: use internal _set_position, not external
 * :ghpull:`18036`: Backport PR #18030 on branch v3.3.x (Fix PolyCollection.set_verts optimization.)
 * :ghpull:`18030`: Fix PolyCollection.set_verts optimization.
 * :ghpull:`18032`: Backport PR #18026 on branch v3.3.x (FIX: Be sure matplotlib.backends is imported before we use it)

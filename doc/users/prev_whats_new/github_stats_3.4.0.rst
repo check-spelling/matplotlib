@@ -701,7 +701,7 @@ Pull Requests (772):
 * :ghpull:`18564`: Prepare for merging SubplotBase into AxesBase.
 * :ghpull:`15127`: ENH/API: improvements to register_cmap
 * :ghpull:`18576`: DOC: prefer colormap over color map
-* :ghpull:`18340`: Colorbar grid postion
+* :ghpull:`18340`: Colorbar grid position
 * :ghpull:`18568`: Added Reporting to code_of_conduct.md
 * :ghpull:`18555`: Convert _math_style_dict into an Enum.
 * :ghpull:`18567`: Replace subplot(ijk) calls by subplots(i, j)
