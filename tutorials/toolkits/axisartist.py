@@ -164,8 +164,8 @@ lines.
 
 In both AxisArtist and Gridlines, the calculation of tick and grid
 location is delegated to an instance of GridHelper class.
-mpl_toolkits.axisartist.Axes class uses GridHelperRectlinear as a grid
-helper. The GridHelperRectlinear class is a wrapper around the *xaxis*
+mpl_toolkits.axisartist.Axes class uses GridHelperRectilinear as a grid
+helper. The GridHelperRectilinear class is a wrapper around the *xaxis*
 and *yaxis* of Matplotlib's original Axes, and it was meant to work as the
 way how Matplotlib's original axes works. For example, tick location changes
 using set_ticks method and etc. should work as expected. But change in
@@ -458,12 +458,12 @@ transform of the axes itself (ax.transData) is still rectilinear
          import GridHelperCurveLinear
     from mpl_toolkits.axisartist import Axes
 
-    # from curved coordinate to rectlinear coordinate.
+    # from curved coordinate to rectilinear coordinate.
     def tr(x, y):
         x, y = np.asarray(x), np.asarray(y)
         return x, y-x
 
-    # from rectlinear coordinate to curved coordinate.
+    # from rectilinear coordinate to curved coordinate.
     def inv_tr(x, y):
         x, y = np.asarray(x), np.asarray(y)
         return x, y+x
