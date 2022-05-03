@@ -2258,7 +2258,7 @@ the `API changes <../../api/api_changes.html>`_.
     align='edge' changed to center of bin - MM
 
 2008-05-22
-    Added support for ReST-based doumentation using Sphinx.  Documents are
+    Added support for ReST-based documentation using Sphinx.  Documents are
     located in doc/, and are broken up into a users guide and an API reference.
     To build, run the make.py files. Sphinx-0.4 is needed to build generate
     xml, which will be useful for rendering equations with mathml, use sphinx

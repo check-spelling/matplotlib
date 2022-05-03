@@ -1146,7 +1146,7 @@ Issues (204):
 * :ghissue:`12198`: axvline incorrectly tries to handle unitized ymin, ymax
 * :ghissue:`9139`: Python3 matplotlib 2.0.2 with Times New Roman misses unicode minus sign in pdf
 * :ghissue:`5970`: pyplot.scatter raises obscure error when mistakenly passed a third string param
-* :ghissue:`17936`: documenattion and behavior do not match for suppressing (PDF) metadata
+* :ghissue:`17936`: documentation and behavior do not match for suppressing (PDF) metadata
 * :ghissue:`17932`: latex textrm does not work in Cairo backend
 * :ghissue:`17714`: Universal fullscreen command
 * :ghissue:`4584`: ColorbarBase draws edges in slightly wrong positions.
