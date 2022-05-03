@@ -67,7 +67,7 @@ namespace agg
 
     //--------------------------------------------------sbool_add_span_empty
     // Functor.
-    // Add nothing. Used in conbine_shapes_sub
+    // Add nothing. Used in combine_shapes_sub
     //----------------
     template<class Scanline1, 
              class Scanline> 
