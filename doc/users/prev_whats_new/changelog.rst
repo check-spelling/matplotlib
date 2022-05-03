@@ -4851,7 +4851,7 @@ the `API changes <../../api/api_changes.html>`_.
 
 2005-05-21
     Fixed raster problem for small rasters with dvipng -- looks like it was a
-    premultipled alpha problem - JDH
+    premultiplied alpha problem - JDH
 
 2005-05-20
     Added linewidth and faceted kwarg to scatter to control edgewidth and
