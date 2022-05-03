@@ -369,7 +369,7 @@ namespace agg
 
 
     //---------------------------------------------------------platform_support
-    // This class is a base one to the apllication classes. It can be used 
+    // This class is a base one to the application classes. It can be used 
     // as follows:
     //
     //  class the_application : public agg::platform_support
