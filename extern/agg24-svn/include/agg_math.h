@@ -388,7 +388,7 @@ namespace agg
             m2 = m1;
         }
     
-        // Apply recurrence down from curent max order
+        // Apply recurrence down from current max order
         for(;;) 
         {
             double c3 = 0;
