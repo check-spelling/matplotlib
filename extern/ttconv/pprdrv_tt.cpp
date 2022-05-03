@@ -44,7 +44,7 @@
 ** Convert the indicated Truetype font file to a type 42 or type 3
 ** PostScript font and insert it in the output stream.
 **
-** All the routines from here to the end of file file are involved
+** All the routines from here to the end of file are involved
 ** in this process.
 ==========================================================================*/
 
