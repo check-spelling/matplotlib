@@ -1024,7 +1024,7 @@ Pull Requests (939):
 * :ghpull:`19564`: Micro-optimize type1font loading
 * :ghpull:`19623`: FIX: Contour lines rendered incorrectly when closed loops
 * :ghpull:`19902`: Implement ``ArtistList.__[r]add__``.
-* :ghpull:`19904`: Don't set zoom/pan cursor for non-navigatable axes.
+* :ghpull:`19904`: Don't set zoom/pan cursor for non-navigable axes.
 * :ghpull:`19909`: Use unicode when interactively displaying 3d azim/elev.
 * :ghpull:`19905`: pyplot: do not apply kwargs twice in to x/yticklabels
 * :ghpull:`19126`: Move pixel ratio handling into FigureCanvasBase
