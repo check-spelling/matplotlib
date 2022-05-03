@@ -6298,7 +6298,7 @@ This is the Old, stale, never used changelog
 
 2003-05-28
     Changed figure rendering to draw form a pixmap to reduce flicker.  See
-    examples/system_monitor.py for an example where the plot is continusouly
+    examples/system_monitor.py for an example where the plot is continuously
     updated w/o flicker.  This example is meant to simulate a system monitor
     that shows free CPU, RAM, etc...
 
