@@ -373,8 +373,8 @@ Pull Requests (839):
 * :ghpull:`15545`: Backport PR #15429 on branch v3.2.x (Fix OSX build on azure)
 * :ghpull:`15544`: Backport PR #15537 on branch v3.2.x (Add a third party package in the doc: matplotlib-scalebar)
 * :ghpull:`15561`: Update thirdparty scalebar
-* :ghpull:`15567`: Backport PR #15562 on branch v3.2.x (Improve docsting of AxesImage)
-* :ghpull:`15562`: Improve docsting of AxesImage
+* :ghpull:`15567`: Backport PR #15562 on branch v3.2.x (Improve docstring of AxesImage)
+* :ghpull:`15562`: Improve docstring of AxesImage
 * :ghpull:`15565`: Backport PR #15556 on branch v3.2.x (Fix test suite compat with ghostscript 9.50.)
 * :ghpull:`15556`: Fix test suite compat with ghostscript 9.50.
 * :ghpull:`15560`: Backport PR #15553 on branch v3.2.x (DOC: add cache-buster query string to css path)

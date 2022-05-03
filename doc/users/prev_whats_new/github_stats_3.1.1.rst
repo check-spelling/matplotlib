@@ -139,8 +139,8 @@ Pull Requests (120):
 * :ghpull:`14320`: Backport PR #14319 on branch v3.1.x (Don't set missing history buttons.)
 * :ghpull:`14319`: Don't set missing history buttons.
 * :ghpull:`14317`: Backport PR #14295: Fix bug in SymmetricalLogTransform.
-* :ghpull:`14302`: Backport PR #14255 on branch v3.1.x (Improve docsstring of Axes.streamplot)
-* :ghpull:`14255`: Improve docsstring of Axes.streamplot
+* :ghpull:`14302`: Backport PR #14255 on branch v3.1.x (Improve docstring of Axes.streamplot)
+* :ghpull:`14255`: Improve docstring of Axes.streamplot
 * :ghpull:`14295`: Fix bug in SymmetricalLogTransform.
 * :ghpull:`14294`: Backport PR #14282 on branch v3.1.x (Fix toolmanager's destroy subplots in tk)
 * :ghpull:`14282`: Fix toolmanager's destroy subplots in tk
