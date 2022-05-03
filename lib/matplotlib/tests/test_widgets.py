@@ -445,7 +445,7 @@ def test_rectangle_rotate(ax, selector_class):
             tool._selection_artist.rotation_point = 'unvalid_value'
 
 
-def test_rectange_add_remove_set(ax):
+def test_rectangle_add_remove_set(ax):
     tool = widgets.RectangleSelector(ax, onselect=noop, interactive=True)
     # Draw rectangle
     click_and_drag(tool, start=(100, 100), end=(130, 140))

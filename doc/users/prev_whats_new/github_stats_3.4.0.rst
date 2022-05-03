@@ -765,7 +765,7 @@ Pull Requests (772):
 * :ghpull:`18445`: Warn if an animation is gc'd before doing anything.
 * :ghpull:`18452`: Move Axes ``__repr__`` from Subplot to AxesBase.
 * :ghpull:`15374`: Replace _prod_vectorized by @-multiplication.
-* :ghpull:`13643`: RecangleSelector constructor does not handle marker_props
+* :ghpull:`13643`: RectangleSelector constructor does not handle marker_props
 * :ghpull:`18403`: DOC: Remove related topics entries from the sidebar
 * :ghpull:`18421`: Move {get,set}_{x,y}label to _AxesBase.
 * :ghpull:`18429`: DOC: fix date example
