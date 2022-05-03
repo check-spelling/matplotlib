@@ -1146,7 +1146,7 @@ class Hlist(List):
             self.glue_ratio = 0.
             return
         if x > 0.:
-            self._set_glue(x, 1, total_stretch, "Overfull")
+            self._set_glue(x, 1, total_stretch, "Overful")
         else:
             self._set_glue(x, -1, total_shrink, "Underfull")
 
@@ -1225,7 +1225,7 @@ class Vlist(List):
             return
 
         if x > 0.:
-            self._set_glue(x, 1, total_stretch, "Overfull")
+            self._set_glue(x, 1, total_stretch, "Overful")
         else:
             self._set_glue(x, -1, total_shrink, "Underfull")
 
