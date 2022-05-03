@@ -472,7 +472,7 @@ Pull Requests (772):
 * :ghpull:`19127`: Cleanups to webagg & friends.
 * :ghpull:`19122`: FIX/DOC - make Text docstring interp more easily searchable
 * :ghpull:`19106`: Support setting rcParams["image.cmap"] to Colormap instances.
-* :ghpull:`19085`: FIX: update a transfrom from transFigure to transSubfigure
+* :ghpull:`19085`: FIX: update a transform from transFigure to transSubfigure
 * :ghpull:`19117`: Rename a confusing variable.
 * :ghpull:`18647`: Axes.axline: implement support transform argument (for points but not slope)
 * :ghpull:`16220`: Fix interaction with unpickled 3d plots.
