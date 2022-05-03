@@ -6285,7 +6285,7 @@ This is the Old, stale, never used changelog
     Added a new line type '|' which is a vline.  syntax is plot(x, Y, '|')
     where y.shape = len(x),2 and each row gives the ymin,ymax for the
     respective values of x.  Previously I had implemented vlines as a list of
-    lines, but I needed the efficientcy of the numeric clipping for large
+    lines, but I needed the efficiency of the numeric clipping for large
     numbers of vlines outside the viewport, so I wrote a dedicated class
     Vline2D which derives from Line2D
 
