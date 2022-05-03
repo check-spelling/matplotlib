@@ -96,7 +96,7 @@ struct FlaggedPoint
 ** overflow the stack on certain level 1 interpreters.
 **
 ** Prepare to push another item onto the stack,
-** starting a new proceedure if necessary.
+** starting a new procedure if necessary.
 **
 ** Not all the stack depth calculations in this routine
 ** are perfectly accurate, but they do the job.

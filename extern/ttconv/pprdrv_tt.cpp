@@ -910,7 +910,7 @@ void ttfont_sfnts(TTStreamWriter& stream, struct TTFONT *font)
 **
 ** If we are creating a type 3 instead of a type 42 font,
 ** this array will instead convert PostScript character names
-** to executable proceedures.
+** to executable procedures.
 --------------------------------------------------------------*/
 const char *Apple_CharStrings[]=
 {
@@ -1057,7 +1057,7 @@ void ttfont_CharStrings(TTStreamWriter& stream, struct TTFONT *font, std::vector
 void ttfont_trailer(TTStreamWriter& stream, struct TTFONT *font)
 {
     /* If we are generating a type 3 font, we need to provide */
-    /* a BuildGlyph and BuildChar proceedures. */
+    /* a BuildGlyph and BuildChar procedures. */
     if (font->target_type == PS_TYPE_3 ||
         font->target_type == PS_TYPE_42_3_HYBRID)
     {
@@ -1072,7 +1072,7 @@ void ttfont_trailer(TTStreamWriter& stream, struct TTFONT *font)
 
         stream.put_char('\n');
 
-        /* This proceedure is for compatibility with */
+        /* This procedure is for compatibility with */
         /* level 1 interpreters. */
         stream.putline("/BuildChar {");
         stream.putline(" 1 index /Encoding get exch get");
@@ -1127,7 +1127,7 @@ void ttfont_trailer(TTStreamWriter& stream, struct TTFONT *font)
         /* is a procedure.  If it is, it executes it, otherwise, it */
         /* lets the TrueType rasterizer loose on it. */
 
-        /* When this proceedure is executed the stack contains */
+        /* When this procedure is executed the stack contains */
         /* the font dictionary and the character name.  We */
         /* exchange arguments and move the dictionary to the */
         /* dictionary stack. */
@@ -1151,7 +1151,7 @@ void ttfont_trailer(TTStreamWriter& stream, struct TTFONT *font)
         stream.putline("  get dup xcheck");
         /* stack: CharStrings_entry */
 
-        /* If is a proceedure.  Execute according to RBIIp 277-278. */
+        /* If is a procedure.  Execute according to RBIIp 277-278. */
         stream.putline("    {currentdict systemdict begin begin exec end end}");
 
         /* Is a TrueType character index, let the rasterizer at it. */
