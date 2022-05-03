@@ -146,7 +146,7 @@ class ColormapRegistry(Mapping):
         """
         Return a list of the registered colormap names.
 
-        This exists only for backward-compatibilty in `.pyplot` which had a
+        This exists only for backward-compatibility in `.pyplot` which had a
         ``plt.colormaps()`` method. The recommended way to get this list is
         now ``list(colormaps)``.
         """
