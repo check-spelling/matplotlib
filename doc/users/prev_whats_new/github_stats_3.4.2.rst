@@ -38,9 +38,9 @@ Pull Requests (97):
 * :ghpull:`20178`: Backport PR #20150 on branch v3.4.x
 * :ghpull:`20172`: Backport PR #20161 on branch v3.4.x (Fix resetting grid visibility)
 * :ghpull:`20161`: Fix resetting grid visibility
-* :ghpull:`20167`: Backport PR #20146 on branch v3.4.x (Don't clip clip paths to Figure bbox.)
+* :ghpull:`20167`: Backport PR #20146 on branch v3.4.x (Don't clip paths to Figure bbox.)
 * :ghpull:`20166`: Backport PR #19978 on branch v3.4.x (fixed bug in CenteredNorm, issue #19972)
-* :ghpull:`20146`: Don't clip clip paths to Figure bbox.
+* :ghpull:`20146`: Don't clip paths to Figure bbox.
 * :ghpull:`19978`: fixed bug in CenteredNorm, issue #19972
 * :ghpull:`20160`: Backport PR #20148 on branch v3.4.x (FIX: MouseButton representation in boilerplate generated signatures)
 * :ghpull:`20148`: FIX: MouseButton representation in boilerplate generated signatures
