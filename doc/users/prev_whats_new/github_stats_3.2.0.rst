@@ -323,8 +323,8 @@ Pull Requests (839):
 * :ghpull:`15819`: Backport PR #15601 on branch v3.2.x (Fix FontProperties conversion to/from strings)
 * :ghpull:`15601`: Fix FontProperties conversion to/from strings
 * :ghpull:`15619`: Improve zorder demo
-* :ghpull:`15810`: Backport PR #15809 on branch v3.2.x (Exclude artists from legend using label attributte)
-* :ghpull:`15809`: Exclude artists from legend using label attributte
+* :ghpull:`15810`: Backport PR #15809 on branch v3.2.x (Exclude artists from legend using label attribute)
+* :ghpull:`15809`: Exclude artists from legend using label attribute
 * :ghpull:`15808`: Backport PR #15513 on branch v3.2.x (Separate plots using #### in make_room_for_ylabel_using_axesgrid.py)
 * :ghpull:`15513`: Separate plots using #### in make_room_for_ylabel_using_axesgrid.py
 * :ghpull:`15807`: Backport PR #15791 on branch v3.2.x (Cleanup backend_bases docstrings.)
