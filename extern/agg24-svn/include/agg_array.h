@@ -321,7 +321,7 @@ namespace agg
     // There reallocs occure only when the pool of pointers to blocks needs 
     // to be extended (it happens very rarely). You can control the value 
     // of increment to reallocate the pointer buffer. See the second constructor.
-    // By default, the incremeent value equals (1 << S), i.e., the block size.
+    // By default, the increment value equals (1 << S), i.e., the block size.
     //------------------------------------------------------------------------
     template<class T, unsigned S=6> class pod_bvector
     {
