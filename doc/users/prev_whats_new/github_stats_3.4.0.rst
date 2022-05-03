@@ -780,7 +780,7 @@ Pull Requests (772):
 * :ghpull:`17892`: Add earlier color validation
 * :ghpull:`18367`: Support horizontalalignment in TextArea/AnchoredText.
 * :ghpull:`18362`: DOC: Add some types to Returns entries.
-* :ghpull:`18365`: move canvas focus after toomanager initialization
+* :ghpull:`18365`: move canvas focus after toolmanager initialization
 * :ghpull:`18360`: Add example for specifying figure size in different units
 * :ghpull:`18341`: DOCS: add action items to PR template
 * :ghpull:`18349`: Remove redundant angles in ellipse demo.
