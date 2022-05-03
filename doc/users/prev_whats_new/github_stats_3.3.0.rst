@@ -1378,7 +1378,7 @@ Issues (198):
 * :ghissue:`16389`: “Size” ignored if placed before fontproperties
 * :ghissue:`16687`: Creating a figure of size (0, 0) raises an error
 * :ghissue:`12729`: Docs for contour levels argument is incorrect
-* :ghissue:`16593`: specifying ecolor in errobar turns off cycling
+* :ghissue:`16593`: specifying ecolor in errorbar turns off cycling
 * :ghissue:`15621`: secondary_xaxis doesn't seem to use formatters
 * :ghissue:`16116`: travis36minver.txt needs an update
 * :ghissue:`16546`: Problem with eventplot - error message claims events & lineoffsets are unequal sizes

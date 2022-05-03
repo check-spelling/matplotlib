@@ -181,7 +181,7 @@ Issues (30):
 * :ghissue:`14356`: matplotlib.units.ConversionError on scatter of dates with a NaN in the first position
 * :ghissue:`14467`: Docs for plt.ginput() have the wrong default value for show_clicks keyword argument.
 * :ghissue:`14225`: Matplotlib crashes on windows while maximizing plot window when using Multicursor
-* :ghissue:`14458`: DOC: small inconsistency in errobar docstring
+* :ghissue:`14458`: DOC: small inconsistency in errorbar docstring
 * :ghissue:`14372`: Document that view_init() arguments should be in degrees
 * :ghissue:`12201`: issues clearing rubberband on nbagg at non-default browser zoom
 * :ghissue:`13576`: pcolorfast misbehaves when changing axis limits

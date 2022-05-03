@@ -1033,7 +1033,7 @@ Pull Requests (939):
 * :ghpull:`19889`: Include length in ArtistList repr.
 * :ghpull:`19887`: Fix E265 in test files.
 * :ghpull:`19882`: Use ax.set() for a more compact notation of styling in plot types docs
-* :ghpull:`17231`: Fix errobar order
+* :ghpull:`17231`: Fix errorbar order
 * :ghpull:`19703`: DOC:  new plot gallery
 * :ghpull:`19825`: Factor out machinery for running subprocess tk tests.
 * :ghpull:`19872`: Fix unit handling in errorbar for astropy.
