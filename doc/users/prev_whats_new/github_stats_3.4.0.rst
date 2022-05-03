@@ -1095,7 +1095,7 @@ Issues (204):
 * :ghissue:`17476`: RectangleSelector fails to clear itself after being toggled inactive and then back to active.
 * :ghissue:`18600`: plt.errorbar raises error when given marker=<matplotlib.markers.MarkerStyle object>
 * :ghissue:`18355`: Optional components required to build docs aren't documented
-* :ghissue:`18428`: small bug in the mtplotlib gallery
+* :ghissue:`18428`: small bug in the matplotlib gallery
 * :ghissue:`4438`: inconsistent behaviour of the errorevery option in pyplot.errorbar() to the markevery keyword
 * :ghissue:`5823`: pleas dont include the Google Analytics tracking in the off-line doc
 * :ghissue:`13035`: Path3DCollection from 3D scatter cannot set_color
