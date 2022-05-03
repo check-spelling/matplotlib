@@ -452,7 +452,7 @@ Pull Requests (772):
 * :ghpull:`19166`: CI: add github action to post to first-time PRs openers
 * :ghpull:`19124`: GOV/DOC: add section to docs on triaging and triage team
 * :ghpull:`15602`: Add an auto-labeling helper function for bar charts
-* :ghpull:`19164`: docs: fix simple typo, backslahes -> backslashes
+* :ghpull:`19164`: docs: fix simple typo, backslashes -> backslashes
 * :ghpull:`19161`: Simplify test_backend_pdf::test_multipage_properfinalize.
 * :ghpull:`19141`: FIX: suppress offset text in ConciseDateFormatter when largest scale is in years
 * :ghpull:`19150`: Move from @cbook._classproperty to @_api.classproperty
