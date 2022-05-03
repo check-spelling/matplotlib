@@ -94,7 +94,7 @@ def test_rectangle_minspan(ax, spancoords, minspanx, x1, minspany, y1):
     assert ax._n_onselect == 1
 
     # Too small to create a selector. Should clear existing selector, and
-    # trigger onselect because there was a pre-exisiting selector
+    # trigger onselect because there was a pre-existing selector
     click_and_drag(tool, start=(x0, y0), end=(x1, y1))
     assert not tool._selection_completed
     assert ax._n_onselect == 2
