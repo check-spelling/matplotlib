@@ -125,7 +125,7 @@ the `API changes <../../api/api_changes.html>`_.
 
 2014-03-24
     Added bool kwarg (manage_xticks) to boxplot to enable/disable the
-    managemnet of the xlimits and ticks when making a boxplot.  Default in True
+    management of the xlimits and ticks when making a boxplot.  Default in True
     which maintains current behavior by default.
 
 2014-03-23
