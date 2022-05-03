@@ -264,12 +264,12 @@ Pull Requests (839):
 * :ghpull:`16112`: CI: Fail when failed to install dependencies
 * :ghpull:`16119`: Backport PR #16065 on branch v3.2.x (Nicer formatting of community aspects on front page)
 * :ghpull:`16074`: Backport PR #16061 on branch v3.2.x (Fix deprecation message for axes_grid1.colorbar.)
-* :ghpull:`16093`: Backport PR #16079 on branch v3.2.x (Fix restuctured text formatting)
+* :ghpull:`16093`: Backport PR #16079 on branch v3.2.x (Fix restructured text formatting)
 * :ghpull:`16094`: Backport PR #16080 on branch v3.2.x (Cleanup docstrings in backend_bases.py)
 * :ghpull:`16086`: FIX: use supported attribute to check pillow version
 * :ghpull:`16084`: Backport PR #16077 on branch v3.2.x (Fix some typos)
 * :ghpull:`16077`: Fix some typos
-* :ghpull:`16079`: Fix restuctured text formatting
+* :ghpull:`16079`: Fix restructured text formatting
 * :ghpull:`16080`: Cleanup docstrings in backend_bases.py
 * :ghpull:`16061`: Fix deprecation message for axes_grid1.colorbar.
 * :ghpull:`16006`: Ignore pos in StrCategoryFormatter.__call__ to display correct label in the preview window
