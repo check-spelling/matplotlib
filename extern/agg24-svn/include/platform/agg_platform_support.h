@@ -467,7 +467,7 @@ namespace agg
         unsigned bpp() const { return m_bpp; }
 
         //--------------------------------------------------------------------
-        // The following provides a very simple mechanism of doing someting
+        // The following provides a very simple mechanism of doing something
         // in background. It's not multithreading. When wait_mode is true
         // the class waits for the events and it does not ever call on_idle().
         // When it's false it calls on_idle() when the event queue is empty.
