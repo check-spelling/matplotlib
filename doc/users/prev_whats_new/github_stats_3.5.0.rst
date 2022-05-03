@@ -1157,7 +1157,7 @@ Issues (187):
 * :ghissue:`16251`: API changes are too hard to find in the rendered docs
 * :ghissue:`20770`: [Doc]: How to replicate behaviour of ``plt.gca(projection=...)``?
 * :ghissue:`17052`: Colorbar update error with clim change in multi_image.py example
-* :ghissue:`4387`: make ``Normalize`` objects notifiy scalar-mappables on changes
+* :ghissue:`4387`: make ``Normalize`` objects notify scalar-mappables on changes
 * :ghissue:`20001`: rename fig.draw_no_output
 * :ghissue:`20936`: [Bug]: edgecolor 'auto' doesn't work properly
 * :ghissue:`20909`: [Bug]: Animation error message
