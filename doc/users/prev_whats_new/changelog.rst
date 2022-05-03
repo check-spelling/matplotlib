@@ -5009,7 +5009,7 @@ the `API changes <../../api/api_changes.html>`_.
     Applied boxplot and OSX font search patches
 
 2005-03-27
-    Added ft2font NULL check to fix Japanase font bug - JDH
+    Added ft2font NULL check to fix Japanese font bug - JDH
 
 2005-03-27
     Added sprint legend patch plus John Gill's tests and fix -- see
