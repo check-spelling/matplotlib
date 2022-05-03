@@ -469,7 +469,7 @@ Pull Requests (1066):
 * :ghpull:`15008`: ENH: add variable epoch
 * :ghpull:`17260`: Text Rotation Example: Correct roation_mode typo
 * :ghpull:`17258`: Improve info logged by tex subsystem.
-* :ghpull:`17211`: Deprecate support for running svg converter from path contaning newline.
+* :ghpull:`17211`: Deprecate support for running svg converter from path containing newline.
 * :ghpull:`17078`: Improve nbAgg & WebAgg toolbars
 * :ghpull:`17191`: Inline unsampled-image path; remove renderer kwarg from _check_unsampled_image.
 * :ghpull:`17213`: Replace use of Bbox.bounds by appropriate properties.
