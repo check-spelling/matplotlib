@@ -358,7 +358,7 @@ Issues (170):
 * :ghissue:`12564`: Saving plot as PNG file prunes tick labels 
 * :ghissue:`12161`: Problems of using sharex options with lines plots and colormesh with colorbar
 * :ghissue:`12256`: tight_layout for plot with non-clipped screen-unit items causes issues on zoom
-* :ghissue:`12545`: Program quit unormally without reporting error
+* :ghissue:`12545`: Program quit abnormally without reporting error
 * :ghissue:`12532`: Incorrect rendering of math symbols
 * :ghissue:`12567`: Calling pyplot.show() with TkAgg backend on x86 machine raises OverflowError.
 * :ghissue:`12571`: cannot install because Fatal Python error: initfsencoding: Unable to get the locale encoding
