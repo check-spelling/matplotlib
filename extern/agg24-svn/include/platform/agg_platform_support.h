@@ -544,7 +544,7 @@ namespace agg
         // to override them all.
         // In my demo applications these functions are defined inside
         // the the_application class (implicit inlining) which is in general 
-        // very bad practice, I mean vitual inline methods. At least it does
+        // very bad practice, I mean virtual inline methods. At least it does
         // not make sense. 
         // But in this case it's quite appropriate because we have the only
         // instance of the the_application class and it is in the same file 
