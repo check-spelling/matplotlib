@@ -619,7 +619,7 @@ void sfnts_end_string(TTStreamWriter& stream)
 
 /*
 ** This is called at the start of each new table.
-** The argement is the length in bytes of the table
+** The argument is the length in bytes of the table
 ** which will follow.  If the new table will not fit
 ** in the current string, a new one is started.
 */
