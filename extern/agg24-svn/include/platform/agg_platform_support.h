@@ -658,7 +658,7 @@ namespace agg
         ctrl_container m_ctrls;
 
         // Sorry, I'm too tired to describe the private 
-        // data membders. See the implementations for different
+        // data members. See the implementations for different
         // platforms for details.
     private:
         platform_support(const platform_support&);
