@@ -331,7 +331,7 @@ the `API changes <../../api/api_changes.html>`_.
     from that point forward. - PI
 
 2012-11-16
-    Added the funcction _get_rbga_face, which is identical to _get_rbg_face
+    Added the function _get_rbga_face, which is identical to _get_rbg_face
     except it return a (r,g,b,a) tuble, to line2D.  Modified Line2D.draw to use
     _get_rbga_face to get the markerface color so that any alpha set by
     markerfacecolor will respected.  - Thomas Caswell
