@@ -898,7 +898,7 @@ Pull Requests (1066):
 * :ghpull:`16304`: Simplify Legend.get_children.
 * :ghpull:`16309`: Remove duplicated computations in Axes.get_tightbbox.
 * :ghpull:`16314`: Avoid repeatedly warning about too many figures open.
-* :ghpull:`16319`: Put doc for XAxis befor YAxis and likewise for XTick, YTick.
+* :ghpull:`16319`: Put doc for XAxis before YAxis and likewise for XTick, YTick.
 * :ghpull:`16313`: Cleanup constrainedlayout_guide.
 * :ghpull:`16312`: Remove unnecessary Legend._approx_text_height.
 * :ghpull:`16307`: Cleanup axes_demo.
