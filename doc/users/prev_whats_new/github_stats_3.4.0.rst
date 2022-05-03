@@ -810,7 +810,7 @@ Pull Requests (772):
 * :ghpull:`18226`: Use CallbackRegistry in Widgets and some related cleanup
 * :ghpull:`18203`: Force locator and formatter inheritence
 * :ghpull:`18279`: boxplot: Add conf_intervals reference to notch docs.
-* :ghpull:`18276`: Fix autoscaling to exclude inifinite data limits when possible.
+* :ghpull:`18276`: Fix autoscaling to exclude infinite data limits when possible.
 * :ghpull:`18261`: Migrate tk backend tests into subprocesses
 * :ghpull:`17961`: DOCS: Remove How-to: Contributing
 * :ghpull:`18201`: Remove mpl.colors deprecations for 3.4
