@@ -926,7 +926,7 @@ Pull Requests (598):
 * :ghpull:`10955`: Py3fy cbook, compare_backend_driver_results
 * :ghpull:`10680`: Rewrite the tk C blitting code
 * :ghpull:`9498`: Move title up if x-axis is on the top of the figure
-* :ghpull:`10942`: Make active param in CheckBottons optional, default false
+* :ghpull:`10942`: Make active param in CheckButtons optional, default false
 * :ghpull:`10943`: Allow pie textprops to take alignment and rotation arguments
 * :ghpull:`10780`: Fix scaling of RadioButtons
 * :ghpull:`10938`: Fix two undefined names
