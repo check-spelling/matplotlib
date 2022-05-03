@@ -1675,7 +1675,7 @@ the `API changes <../../api/api_changes.html>`_.
 
 2008-12-12
     Preparations to eliminate maskedarray rcParams key: its use will now
-    generate a warning.  Similarly, importing the obsolote numerix.npyma will
+    generate a warning.  Similarly, importing the obsolete numerix.npyma will
     generate a warning. - EF
 
 2008-12-12
