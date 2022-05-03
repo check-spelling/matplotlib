@@ -311,7 +311,7 @@ Issues (170):
 * :ghissue:`12703`: Error when closing first of several pyplot figures in TkAgg
 * :ghissue:`12728`: Deprecation Warnings
 * :ghissue:`4124`: Provide canonical examples of mpl in web frameworks
-* :ghissue:`10574`: Default color after setting alptha to Patch in legened
+* :ghissue:`10574`: Default color after setting alpha to Patch in legened
 * :ghissue:`12702`: couldn't find or load Qt platform plugin "windows" in "".
 * :ghissue:`11139`: "make clean" doesn't remove all the build doc files
 * :ghissue:`12701`: semilogy with NaN prevents display of Title (cairo backend)
