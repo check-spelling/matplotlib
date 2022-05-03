@@ -632,7 +632,7 @@ namespace agg
         //--------------------------------------------------------------------
         // Stopwatch functions. Function elapsed_time() returns time elapsed 
         // since the latest start_timer() invocation in milliseconds. 
-        // The resolutoin depends on the implementation. 
+        // The resolution depends on the implementation. 
         // In Win32 it uses QueryPerformanceFrequency() / QueryPerformanceCounter().
         void   start_timer();
         double elapsed_time() const;
