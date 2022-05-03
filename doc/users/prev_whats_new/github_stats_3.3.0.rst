@@ -510,7 +510,7 @@ Pull Requests (1066):
 * :ghpull:`17162`: Update docs of rc_context()
 * :ghpull:`17170`: Convert SubplotZero example into centered-spines-with-arrows recipe.
 * :ghpull:`17164`: Fix Figure.add_axes(rect=...).
-* :ghpull:`17154`: DOC: Fix some warning and unreproducibility
+* :ghpull:`17154`: DOC: Fix some warning and irreproducibility
 * :ghpull:`17169`: Clarify that draw_event occurs after the canvas draw.
 * :ghpull:`17089`: Cleanup some imports in tests
 * :ghpull:`17040`: Improve docs on automated tests
