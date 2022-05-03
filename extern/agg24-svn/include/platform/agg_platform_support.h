@@ -546,7 +546,7 @@ namespace agg
         // the the_application class (implicit inlining) which is in general 
         // very bad practice, I mean vitual inline methods. At least it does
         // not make sense. 
-        // But in this case it's quite appropriate bacause we have the only
+        // But in this case it's quite appropriate because we have the only
         // instance of the the_application class and it is in the same file 
         // where this class is defined.
         virtual void on_init();
