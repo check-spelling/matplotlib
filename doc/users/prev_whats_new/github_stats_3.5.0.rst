@@ -1129,7 +1129,7 @@ Issues (187):
 * :ghissue:`18213`: Figure out why test_interactive_backend fails on Travis macOS
 * :ghissue:`21090`: [MNT]: Should set_size_inches be updated to use device_pixel_ratio?
 * :ghissue:`13948`: Allow colorbar.ax.set_ylim to set the colorbar limits?
-* :ghissue:`21314`: Inconsistensy in ``pyplot.pcolormesh`` docstring regarding default value for ``shading``
+* :ghissue:`21314`: Inconsistency in ``pyplot.pcolormesh`` docstring regarding default value for ``shading``
 * :ghissue:`21320`: [Doc]: Incorrect image caption in imshow() example
 * :ghissue:`21311`: [Doc]: dead link for agg
 * :ghissue:`20929`: [Bug]: PyPy Win64 wheels use incorrect version
